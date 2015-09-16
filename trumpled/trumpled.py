@@ -64,4 +64,4 @@ api = authenticate_app()
 
 myStreamListener = MyStreamListener()
 stream = tweepy.Stream(auth=api.auth, listener=myStreamListener)
-stream.filter(track=['trump', '#GOPdebate'], async=True)
+stream.filter(track=['trump', '#GOPdebate', 'donald', '#donaldtrump', ], async=True)
