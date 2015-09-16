@@ -1,0 +1,3407 @@
+[
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://www.snsanalytics.com\" rel=\"nofollow\">SNS Analytics</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "http://trove.com/me/content/sOPDw?utm_campaign=hosted&utm_medium=twitter&utm_source=sns&ts=1442445880",
+          "indices": [
+            66,
+            88
+          ],
+          "display_url": "trove.com/me/content/sOP…",
+          "url": "http://t.co/UK6X3EfkB7"
+        }
+      ],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8MpAUsAA8tT9.jpg",
+          "type": "photo",
+          "id_str": "644292040809820160",
+          "url": "http://t.co/quobZ836JF",
+          "media_url": "http://pbs.twimg.com/media/CPD8MpAUsAA8tT9.jpg",
+          "id": 644292040809820160,
+          "expanded_url": "http://twitter.com/JohnKasichNews/status/644292042701434881/photo/1",
+          "display_url": "pic.twitter.com/quobZ836JF",
+          "indices": [
+            89,
+            111
+          ],
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 715
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 419
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 237
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": []
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446168004",
+    "id_str": "644292042701434881",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1965906561/2FA7_1.11_John_Kasich_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "This account aggregates all of the news stories about Governor John Kasich of Ohio. The account is not affiliated with John Kasich.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "John Kasich ",
+      "followers_count": 2811,
+      "created_at": "Mon Feb 01 17:34:11 +0000 2010",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/468425997/kasich.jpg",
+      "statuses_count": 7627,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "110473166",
+      "lang": "en",
+      "url": null,
+      "listed_count": 104,
+      "screen_name": "JohnKasichNews",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1965906561/2FA7_1.11_John_Kasich_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "favourites_count": 0,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Ohio ",
+      "friends_count": 269,
+      "id": 110473166,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/468425997/kasich.jpg",
+      "protected": false
+    },
+    "text": "Republican debate: Undercard candidates take on each other, Trump http://t.co/UK6X3EfkB7 http://t.co/quobZ836JF",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292042701434881,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8MpAUsAA8tT9.jpg",
+          "type": "photo",
+          "id_str": "644292040809820160",
+          "url": "http://t.co/quobZ836JF",
+          "media_url": "http://pbs.twimg.com/media/CPD8MpAUsAA8tT9.jpg",
+          "id": 644292040809820160,
+          "expanded_url": "http://twitter.com/JohnKasichNews/status/644292042701434881/photo/1",
+          "display_url": "pic.twitter.com/quobZ836JF",
+          "indices": [
+            89,
+            111
+          ],
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 715
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 419
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 237
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292043364298752",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/428350077279559680/fMQpetJv_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Activist/Organizer",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Charlotte Olena",
+      "followers_count": 68,
+      "created_at": "Thu Jun 13 21:39:14 +0000 2013",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 59,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "1514554393",
+      "lang": "en",
+      "url": null,
+      "listed_count": 1,
+      "screen_name": "Charley_Olena",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/428350077279559680/fMQpetJv_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "favourites_count": 15,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 111,
+      "id": 1514554393,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "#GOPDebate Patakis solution: give everyone more bombs so other people don't get bombs for the other bombs. bombs?",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292043364298752,
+    "timestamp_ms": "1442446168162",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            67,
+            77
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            78,
+            88
+          ],
+          "text": "CNNDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            37,
+            48
+          ],
+          "id_str": "14845376",
+          "name": "Lindsey Graham",
+          "screen_name": "GrahamBlog",
+          "id": 14845376
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644292044450607108",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000045957664/a9f1768d621056377da1c551d870901f_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "022330",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Follower of Christ, husband, father, teacher, preacher, and occasional blogger/podcaster.",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "default_profile_image": false,
+      "name": "kevinjthompson",
+      "followers_count": 603,
+      "created_at": "Fri Jun 13 11:44:21 +0000 2008",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/752281971/a2803a9739798e7ce66f09df67dd29b4.jpeg",
+      "statuses_count": 4194,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "15106454",
+      "lang": "en",
+      "url": "http://thompsonpoliticsblog.wordpress.com",
+      "listed_count": 11,
+      "screen_name": "kevinjthompson",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000045957664/a9f1768d621056377da1c551d870901f_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15106454/1437871779",
+      "favourites_count": 194,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Rockford, IL",
+      "friends_count": 2000,
+      "id": 15106454,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/752281971/a2803a9739798e7ce66f09df67dd29b4.jpeg",
+      "protected": false
+    },
+    "text": "I would have to drink quite a bit if @GrahamBlog were president... #GOPDebate #CNNDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292044450607108,
+    "timestamp_ms": "1442446168421",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            53,
+            63
+          ],
+          "text": "CNNDebate"
+        },
+        {
+          "indices": [
+            64,
+            74
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292044559519744",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/451063847114117120/uV9huaYZ_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "FFF04D",
+      "notifications": null,
+      "profile_link_color": "0099CC",
+      "description": "NY Times Bestselling Author - Account for politics and SF Giants, 'cause u  CAN'T HANDLE THE TRUTH, or, u know, being annoyed. Also @TheAuthorGuy",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "default_profile_image": false,
+      "name": "Christopher Moore",
+      "followers_count": 1499,
+      "created_at": "Tue Jan 24 01:28:22 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451077786187210752/Y6LjbaUC.png",
+      "statuses_count": 1270,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "472522579",
+      "lang": "en",
+      "url": "http://www.chrismoore.com",
+      "listed_count": 24,
+      "screen_name": "NOX10US",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/451063847114117120/uV9huaYZ_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/472522579/1396377642",
+      "favourites_count": 622,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "San Francisco",
+      "friends_count": 73,
+      "id": 472522579,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451077786187210752/Y6LjbaUC.png",
+      "protected": false
+    },
+    "text": "Please Rick, recount some more of your best losses.  #CNNDebate #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292044559519744,
+    "timestamp_ms": "1442446168447",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": true,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": {
+      "place_type": "admin",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.848975,
+              45.543542
+            ],
+            [
+              -124.848975,
+              49.002493
+            ],
+            [
+              -116.915989,
+              49.002493
+            ],
+            [
+              -116.915989,
+              45.543542
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/bc3a38d3d5999b4b.json",
+      "attributes": {},
+      "name": "Washington",
+      "full_name": "Washington, USA",
+      "country_code": "US",
+      "id": "bc3a38d3d5999b4b",
+      "country": "United States"
+    },
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292045050253312",
+    "lang": "en",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/608791995008491520/4tzJ6bp1_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "131516",
+      "notifications": null,
+      "profile_link_color": "FF0000",
+      "description": "I'm a French model. KCCO",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Pokemon Master Tom",
+      "followers_count": 174,
+      "created_at": "Sun Jan 29 18:39:14 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/783062389/8f374014eec87898e57314fa463d7cc3.gif",
+      "statuses_count": 8871,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "477935331",
+      "lang": "en",
+      "url": "http://www.pornhub.com",
+      "listed_count": 2,
+      "screen_name": "CpCuddler",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/608791995008491520/4tzJ6bp1_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/477935331/1438470016",
+      "favourites_count": 517,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Parts Unknown, Washington",
+      "friends_count": 83,
+      "id": 477935331,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/783062389/8f374014eec87898e57314fa463d7cc3.gif",
+      "protected": false
+    },
+    "text": "It's funny how the first debate is like a real debate and is going to be more official than the prime time one with trump",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292045050253312,
+    "timestamp_ms": "1442446168564",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292045415260160",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/633419089713741825/fia3IrNB_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "352726",
+      "notifications": null,
+      "profile_link_color": "DD2E44",
+      "description": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else. - C.S. Lewis",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Sarah Thornsberry",
+      "followers_count": 191,
+      "created_at": "Sat Mar 03 05:12:18 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000177823786/zLL9W32a.jpeg",
+      "statuses_count": 3238,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "512807586",
+      "lang": "en",
+      "url": "http://inthebeginningprologue.tumblr.com/",
+      "listed_count": 1,
+      "screen_name": "ElizaSarahBerry",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/633419089713741825/fia3IrNB_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/512807586/1416586666",
+      "favourites_count": 2162,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Cape Girardeau, MO",
+      "friends_count": 183,
+      "id": 512807586,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000177823786/zLL9W32a.jpeg",
+      "protected": false
+    },
+    "text": "I love how the GOP debate is being portrayed in the media as a performance. I expect Trump to be nominated for Best Actor in a Comedy.",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292045415260160,
+    "timestamp_ms": "1442446168651",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            104,
+            114
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            115,
+            125
+          ],
+          "text": "CNNDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292045830520832",
+    "lang": "en",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140486857/image_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Former Radio Host, Author, Blogger, Mild Irritant, Buzz Kill, Friend of Leisl",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Derek Hartley",
+      "followers_count": 8773,
+      "created_at": "Sat Oct 09 04:18:17 +0000 2010",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 5217,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "200382163",
+      "lang": "en",
+      "url": "http://derekhartley.com",
+      "listed_count": 131,
+      "screen_name": "wastesyourtime",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1140486857/image_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/200382163/1398271065",
+      "favourites_count": 108,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "New York City, NY",
+      "friends_count": 364,
+      "id": 200382163,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "Someone needs to remind Pataki that always bringing up 9/11 didn't help Guiliani and it won't help him. #GOPDebate #CNNDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292045830520832,
+    "timestamp_ms": "1442446168750",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "http://www.msnbc.com/up-with-steve-kornacki/watch/poll-shows-clinton-holds-majority-dem-support-524570179889?cid=sm_fb_msnbc",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "msnbc.com/up-with-steve-…",
+          "url": "http://t.co/9uTZIPi701"
+        }
+      ],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            64
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292045540995072",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/629343480096161793/-6N8T8-b_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "ACDED6",
+      "notifications": null,
+      "profile_link_color": "333333",
+      "description": "60+wife, mother, school counselor, retired. 100% Obama supporter since 2004. http://uniteblue.com/user/bannerite/\r\nhttps://plus.google.com/+PatFuller/posts",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "default_profile_image": false,
+      "name": "Pat Fuller",
+      "followers_count": 30722,
+      "created_at": "Fri Jan 16 22:15:51 +0000 2009",
+      "profile_text_color": "038543",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000063073256/85d51f87b64cb49032630ac252762b27.png",
+      "statuses_count": 236766,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "19088288",
+      "lang": "en",
+      "url": "http://pageposts1123.blogspot.com/",
+      "listed_count": 653,
+      "screen_name": "bannerite",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/629343480096161793/-6N8T8-b_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19088288/1371510521",
+      "favourites_count": 65092,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "USA",
+      "friends_count": 27142,
+      "id": 19088288,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000063073256/85d51f87b64cb49032630ac252762b27.png",
+      "protected": false
+    },
+    "text": "Poll shows Clinton holds majority Dem support | MSNBC #GOPDebate http://t.co/9uTZIPi701",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292045540995072,
+    "timestamp_ms": "1442446168681",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292045796868096",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/454383705864167426/abqKB0Ge_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "022330",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Liberty, limited government, and fiscal sanity. #Constitution #BillOfRights #2A #4A #StandWithRandTedMike #LibertyAndJustice4All",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "default_profile_image": false,
+      "name": "B4Liberty",
+      "followers_count": 2724,
+      "created_at": "Thu Dec 06 21:12:06 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "statuses_count": 8090,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "993838934",
+      "lang": "en",
+      "url": null,
+      "listed_count": 42,
+      "screen_name": "USAB4L",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/454383705864167426/abqKB0Ge_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/993838934/1354899998",
+      "favourites_count": 42,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "USA",
+      "friends_count": 2630,
+      "id": 993838934,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "protected": false
+    },
+    "text": "#GOPDebate Hey Lindsey Graham, are you going to get a Declaration of War before you start bombing Iran?",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292045796868096,
+    "timestamp_ms": "1442446168742",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:28 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8MxUVEAQt-Gn.jpg",
+          "type": "photo",
+          "id_str": "644292043041214468",
+          "url": "http://t.co/sjDczwwajT",
+          "media_url": "http://pbs.twimg.com/media/CPD8MxUVEAQt-Gn.jpg",
+          "id": 644292043041214468,
+          "expanded_url": "http://twitter.com/ryanhoussein/status/644292046178635776/photo/1",
+          "display_url": "pic.twitter.com/sjDczwwajT",
+          "indices": [
+            22,
+            44
+          ],
+          "sizes": {
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 540
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "JoeyMouth"
+        },
+        {
+          "indices": [
+            11,
+            21
+          ],
+          "text": "GOPDebate"
+        }
+      ]
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446168833",
+    "id_str": "644292046178635776",
+    "lang": "und",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/628262246292959232/QS-RAzSj_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Slowly giving up on life. http://thenationalsomething.com @thenationalsome",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Ryan Houssein",
+      "followers_count": 399,
+      "created_at": "Thu Mar 19 01:59:26 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 9003,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "25212308",
+      "lang": "en",
+      "url": null,
+      "listed_count": 8,
+      "screen_name": "ryanhoussein",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/628262246292959232/QS-RAzSj_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25212308/1428339771",
+      "favourites_count": 10778,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 725,
+      "id": 25212308,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "#JoeyMouth #GOPDebate http://t.co/sjDczwwajT",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292046178635776,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8MxUVEAQt-Gn.jpg",
+          "type": "photo",
+          "id_str": "644292043041214468",
+          "url": "http://t.co/sjDczwwajT",
+          "media_url": "http://pbs.twimg.com/media/CPD8MxUVEAQt-Gn.jpg",
+          "id": 644292043041214468,
+          "expanded_url": "http://twitter.com/ryanhoussein/status/644292046178635776/photo/1",
+          "display_url": "pic.twitter.com/sjDczwwajT",
+          "indices": [
+            22,
+            44
+          ],
+          "sizes": {
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 540
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            }
+          }
+        },
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8MxeU8AAg8xN.jpg",
+          "type": "photo",
+          "id_str": "644292043083149312",
+          "url": "http://t.co/sjDczwwajT",
+          "media_url": "http://pbs.twimg.com/media/CPD8MxeU8AAg8xN.jpg",
+          "id": 644292043083149312,
+          "expanded_url": "http://twitter.com/ryanhoussein/status/644292046178635776/photo/1",
+          "display_url": "pic.twitter.com/sjDczwwajT",
+          "indices": [
+            22,
+            44
+          ],
+          "sizes": {
+            "large": {
+              "w": 570,
+              "resize": "fit",
+              "h": 238
+            },
+            "medium": {
+              "w": 570,
+              "resize": "fit",
+              "h": 238
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 141
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://instagram.com/p/7tb9zhkt-o/",
+          "indices": [
+            99,
+            122
+          ],
+          "display_url": "instagram.com/p/7tb9zhkt-o/",
+          "url": "https://t.co/B5E4ns0veN"
+        }
+      ],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            72,
+            86
+          ],
+          "text": "bencarson2016"
+        },
+        {
+          "indices": [
+            87,
+            97
+          ],
+          "text": "gopdebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292046975541248",
+    "lang": "en",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/486325998091112448/ZGv5oqIK_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "notifications": null,
+      "profile_link_color": "1F98C7",
+      "description": "Blogger at Attention to Darling. Wife. Mom. Greenville, SC born. Livin in DC. Clemson Graduate. Glass Half Full Kinda Gal.",
+      "profile_sidebar_fill_color": "DAECF4",
+      "default_profile_image": false,
+      "name": "Erin Phillips ",
+      "followers_count": 655,
+      "created_at": "Thu Sep 04 16:07:10 +0000 2008",
+      "profile_text_color": "663B12",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "statuses_count": 2661,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "16130774",
+      "lang": "en",
+      "url": "http://www.attentiontodarling.com",
+      "listed_count": 30,
+      "screen_name": "erinnphillips",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/486325998091112448/ZGv5oqIK_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16130774/1404784304",
+      "favourites_count": 15,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Arlington, VA",
+      "friends_count": 997,
+      "id": 16130774,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "protected": false
+    },
+    "text": "\"Cotton, yell it with me or I'm eating your face - Run Ben Run!\" -Sully #bencarson2016 #gopdebate… https://t.co/B5E4ns0veN",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292046975541248,
+    "timestamp_ms": "1442446169023",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            41
+          ],
+          "text": "China"
+        },
+        {
+          "indices": [
+            109,
+            113
+          ],
+          "text": "lol"
+        },
+        {
+          "indices": [
+            114,
+            124
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            125,
+            130
+          ],
+          "text": "TRUE"
+        },
+        {
+          "indices": [
+            131,
+            140
+          ],
+          "text": "politics"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            12,
+            28
+          ],
+          "id_str": "25073877",
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump",
+          "id": 25073877
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644292047139139584",
+    "lang": "en",
+    "user": {
+      "time_zone": "Atlantic Time (Canada)",
+      "following": null,
+      "utc_offset": -10800,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2564025257/h8bxwgh8bfi5sbyvpgwk_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Unlike @invisibleobama, you can see me! The economy's not sturdy, but I am. Hey Eastwood, sit on this! I support asses (literally)",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Obama's Chair",
+      "followers_count": 65,
+      "created_at": "Fri Aug 31 21:10:05 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647888144/lop8mk6jzgwb68pxcdfv.jpeg",
+      "statuses_count": 1267,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "794677578",
+      "lang": "en",
+      "url": "http://youtube.com/frostychickenprods",
+      "listed_count": 5,
+      "screen_name": "ObamaSeat",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2564025257/h8bxwgh8bfi5sbyvpgwk_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/794677578/1399934190",
+      "favourites_count": 274,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Tampa, Florida",
+      "friends_count": 360,
+      "id": 794677578,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647888144/lop8mk6jzgwb68pxcdfv.jpeg",
+      "protected": false
+    },
+    "text": "Ironic that @realDonaldTrump views #China as our enemy yet wants to build a \"Great Wall\" to keep people out. #lol #GOPDebate #TRUE #politics",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292047139139584,
+    "timestamp_ms": "1442446169062",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": "644291447064129538",
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "327559196",
+          "name": "Boxing.com",
+          "screen_name": "Boxing_com",
+          "id": 327559196
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644292049185980416",
+    "lang": "de",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/482685080021004288/Eo-awqEr_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "131516",
+      "notifications": null,
+      "profile_link_color": "009999",
+      "description": "Boxing (International Editor/Fightnews.com) and NBA scribe (mostly)\r\nhttp://t.II co/EFngJTd4o2",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "default_profile_image": false,
+      "name": "przemek garczarczyk",
+      "followers_count": 3432,
+      "created_at": "Sun Jun 14 13:21:24 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "statuses_count": 15950,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "47090195",
+      "lang": "en",
+      "url": null,
+      "listed_count": 29,
+      "screen_name": "garnekmedia",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/482685080021004288/Eo-awqEr_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47090195/1403916010",
+      "favourites_count": 2302,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Evanston, IL, U.S.A",
+      "friends_count": 692,
+      "id": 47090195,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false
+    },
+    "text": "@Boxing_com Kristallnacht/Trump reference. Brilliant.",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": 644291447064129538,
+    "in_reply_to_user_id_str": "327559196",
+    "id": 644292049185980416,
+    "timestamp_ms": "1442446169550",
+    "in_reply_to_user_id": 327559196,
+    "in_reply_to_screen_name": "Boxing_com"
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            65,
+            75
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292048112123904",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/624853597193269248/9EAU6AEw_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "9EE60E",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "I can type Matthew McConaughey without hesitating on the spelling.  This Twitter feed contains profanities. Lots of them. I'm never doing enough.",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "default_profile_image": false,
+      "name": "Logan Rapp",
+      "followers_count": 775,
+      "created_at": "Thu May 07 11:27:43 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "statuses_count": 15307,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "38412700",
+      "lang": "en",
+      "url": null,
+      "listed_count": 33,
+      "screen_name": "Loganchance",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/624853597193269248/9EAU6AEw_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38412700/1437859096",
+      "favourites_count": 182,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "North Hollywood, CA",
+      "friends_count": 675,
+      "id": 38412700,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "protected": false
+    },
+    "text": "Really odd that GOP hates the Iran Deal, the party of Détente. \n\n#GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292048112123904,
+    "timestamp_ms": "1442446169294",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 18:30:22 +0000 2015",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "http://es.pn/1KgpujB",
+            "indices": [
+              95,
+              117
+            ],
+            "display_url": "es.pn/1KgpujB",
+            "url": "http://t.co/jI9zUPD5yT"
+          }
+        ],
+        "trends": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPCuO8EWUAAWDGO.jpg",
+            "type": "photo",
+            "id_str": "644206318379749376",
+            "url": "http://t.co/qvhrQCVdpC",
+            "media_url": "http://pbs.twimg.com/media/CPCuO8EWUAAWDGO.jpg",
+            "id": 644206318379749376,
+            "expanded_url": "http://twitter.com/espn/status/644216773265518593/photo/1",
+            "display_url": "pic.twitter.com/qvhrQCVdpC",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "large": {
+                "w": 412,
+                "resize": "fit",
+                "h": 232
+              },
+              "medium": {
+                "w": 412,
+                "resize": "fit",
+                "h": 232
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "hashtags": []
+      },
+      "truncated": false,
+      "id_str": "644216773265518593",
+      "lang": "en",
+      "user": {
+        "time_zone": "Eastern Time (US & Canada)",
+        "following": null,
+        "utc_offset": -14400,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629351437676511232/PnAYQDx8_normal.png",
+        "contributors_enabled": false,
+        "profile_background_color": "C8C8C8",
+        "notifications": null,
+        "profile_link_color": "CC0000",
+        "description": "We talk about sports, sports, and well ... sports.",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "default_profile_image": false,
+        "name": "ESPN",
+        "followers_count": 21602605,
+        "created_at": "Tue Mar 27 20:46:16 +0000 2007",
+        "profile_text_color": "333333",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601774592/rqjossil7yrf5tn5fdvl.jpeg",
+        "statuses_count": 65554,
+        "verified": true,
+        "profile_use_background_image": true,
+        "id_str": "2557521",
+        "lang": "en",
+        "url": "http://espn.go.com",
+        "listed_count": 53474,
+        "screen_name": "espn",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629351437676511232/PnAYQDx8_normal.png",
+        "is_translator": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1406572302",
+        "favourites_count": 116,
+        "default_profile": false,
+        "profile_background_tile": false,
+        "location": "Bristol, CT",
+        "friends_count": 306,
+        "id": 2557521,
+        "geo_enabled": true,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601774592/rqjossil7yrf5tn5fdvl.jpeg",
+        "protected": false
+      },
+      "text": "“I hope so. That would be great.\"\n\nTom Brady, on whether Donald Trump could win the presidency http://t.co/jI9zUPD5yT http://t.co/qvhrQCVdpC",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644216773265518593,
+      "extended_entities": {
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPCuO8EWUAAWDGO.jpg",
+            "type": "photo",
+            "id_str": "644206318379749376",
+            "url": "http://t.co/qvhrQCVdpC",
+            "media_url": "http://pbs.twimg.com/media/CPCuO8EWUAAWDGO.jpg",
+            "id": 644206318379749376,
+            "expanded_url": "http://twitter.com/espn/status/644216773265518593/photo/1",
+            "display_url": "pic.twitter.com/qvhrQCVdpC",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "large": {
+                "w": 412,
+                "resize": "fit",
+                "h": 232
+              },
+              "medium": {
+                "w": 412,
+                "resize": "fit",
+                "h": 232
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              }
+            }
+          }
+        ]
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644216773265518593,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": {
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.5221631,
+              38.9614897
+            ],
+            [
+              -77.5221631,
+              38.9944712
+            ],
+            [
+              -77.4879653,
+              38.9944712
+            ],
+            [
+              -77.4879653,
+              38.9614897
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/00760ba83ff7332c.json",
+      "attributes": {},
+      "name": "Loudoun Valley Estates",
+      "full_name": "Loudoun Valley Estates, VA",
+      "country_code": "US",
+      "id": "00760ba83ff7332c",
+      "country": "United States"
+    },
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/643170038057422848/KcDdDR8m_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Diary of a Wimpy Kid",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "rithika",
+      "followers_count": 477,
+      "created_at": "Thu Jun 13 16:44:25 +0000 2013",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026419309/d0251ea584c9a1eb3b7bd0cd2b39c21d.jpeg",
+      "statuses_count": 4862,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "1513884764",
+      "lang": "en",
+      "url": null,
+      "listed_count": 1,
+      "screen_name": "therithikaa",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/643170038057422848/KcDdDR8m_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513884764/1442206404",
+      "favourites_count": 6061,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Ashburn",
+      "friends_count": 364,
+      "id": 1513884764,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026419309/d0251ea584c9a1eb3b7bd0cd2b39c21d.jpeg",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644216773265518593",
+    "id_str": "644292049802543104",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/espn/status/644216773265518593",
+          "indices": [
+            42,
+            65
+          ],
+          "display_url": "twitter.com/espn/status/64…",
+          "url": "https://t.co/SCJ12y5CzC"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "NO NO NO NO DONT SAY THAT TAKE THAT BACK  https://t.co/SCJ12y5CzC",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292049802543104,
+    "timestamp_ms": "1442446169697",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "possibly_sensitive": true,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:28:28 +0000 2015",
+      "entities": {
+        "urls": [],
+        "trends": [],
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "truncated": false,
+      "id_str": "644291791102050304",
+      "lang": "en",
+      "user": {
+        "time_zone": "Central Time (US & Canada)",
+        "following": null,
+        "utc_offset": -18000,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600126612185677826/jsYDV6ZP_normal.jpg",
+        "contributors_enabled": false,
+        "profile_background_color": "C0DEED",
+        "notifications": null,
+        "profile_link_color": "0084B4",
+        "description": "Founder of http://KentuckySportsradio.com, the largest independent college sports blog in America and host of KSR Radio, with 34 affiliates around the state.",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "default_profile_image": false,
+        "name": "Matt Jones",
+        "followers_count": 142381,
+        "created_at": "Wed Feb 25 21:21:11 +0000 2009",
+        "profile_text_color": "333333",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "statuses_count": 47228,
+        "verified": false,
+        "profile_use_background_image": true,
+        "id_str": "21920725",
+        "lang": "en",
+        "url": "http://kentuckysportsradio.com",
+        "listed_count": 1536,
+        "screen_name": "KySportsRadio",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600126612185677826/jsYDV6ZP_normal.jpg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "favourites_count": 913,
+        "default_profile": true,
+        "profile_background_tile": false,
+        "location": "Lexington, Kentucky",
+        "friends_count": 1795,
+        "id": 21920725,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false
+      },
+      "text": "Bobby Knight apparently endorsed Donald Trump. They are perfect for each other",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644291791102050304,
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644291791102050304,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/639249382534213632/RS5hekje_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "022330",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "WKU meteorology major. Wx/news/media geek. Liberal. Reds, Bengals, Predators, Tottenham Hotspur F.C., Ohio St. Buckeyes/WKU Hilltoppers/UK Wildcats fan. #WKU19",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "default_profile_image": false,
+      "name": "Evan Hatter ",
+      "followers_count": 507,
+      "created_at": "Sun Jan 25 01:01:42 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "statuses_count": 59916,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "19472050",
+      "lang": "en",
+      "url": "http://vine.co/ehatt493",
+      "listed_count": 26,
+      "screen_name": "ehatt493",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/639249382534213632/RS5hekje_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19472050/1441243992",
+      "favourites_count": 7203,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Bowling Green/Frankfort, KY",
+      "friends_count": 1379,
+      "id": 19472050,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644291791102050304",
+    "id_str": "644292050385534976",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/kysportsradio/status/644291791102050304",
+          "indices": [
+            36,
+            59
+          ],
+          "display_url": "twitter.com/kysportsradio/…",
+          "url": "https://t.co/kFntfusSWJ"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "*Sopranos mobster voice* \"AAAAOHH!\" https://t.co/kFntfusSWJ",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292050385534976,
+    "timestamp_ms": "1442446169836",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:19:05 +0000 2015",
+      "entities": {
+        "urls": [],
+        "trends": [],
+        "user_mentions": [
+          {
+            "indices": [
+              29,
+              39
+            ],
+            "id_str": "164015206",
+            "name": "Madhurita Sengupta",
+            "screen_name": "msengupta",
+            "id": 164015206
+          }
+        ],
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD50rKWoAAY6cj.png",
+            "type": "photo",
+            "id_str": "644289430048645120",
+            "url": "http://t.co/zDadm86PQJ",
+            "media_url": "http://pbs.twimg.com/media/CPD50rKWoAAY6cj.png",
+            "id": 644289430048645120,
+            "expanded_url": "http://twitter.com/kelly_c_roache/status/644289430639906816/photo/1",
+            "display_url": "pic.twitter.com/zDadm86PQJ",
+            "indices": [
+              51,
+              73
+            ],
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 315
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 104
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 184
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "hashtags": [
+          {
+            "indices": [
+              40,
+              50
+            ],
+            "text": "GOPDebate"
+          }
+        ]
+      },
+      "truncated": false,
+      "id_str": "644289430639906816",
+      "lang": "en",
+      "user": {
+        "time_zone": null,
+        "following": null,
+        "utc_offset": null,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617759389944905728/TIOimE5m_normal.jpg",
+        "contributors_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "notifications": null,
+        "profile_link_color": "CE7834",
+        "description": "Social justice activist. Fmr Mideast diplomat. Behavioral econ&psych nerd. @Princeton @WilsonSchool BA+MPA. Amateur humanist, artist, photog. Vegan.",
+        "profile_sidebar_fill_color": "78C0A8",
+        "default_profile_image": false,
+        "name": "Kelly Roache",
+        "followers_count": 458,
+        "created_at": "Sun Feb 10 04:51:55 +0000 2013",
+        "profile_text_color": "5E412F",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/798690486/211c554fd689616d8331272bc6dee518.png",
+        "statuses_count": 1454,
+        "verified": false,
+        "profile_use_background_image": true,
+        "id_str": "1164933558",
+        "lang": "en",
+        "url": "http://Instagram.com/kellyroache/",
+        "listed_count": 12,
+        "screen_name": "kelly_c_roache",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617759389944905728/TIOimE5m_normal.jpg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "F0A830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164933558/1436049770",
+        "favourites_count": 532,
+        "default_profile": false,
+        "profile_background_tile": true,
+        "location": "Princeton, New Jersey",
+        "friends_count": 1999,
+        "id": 1164933558,
+        "geo_enabled": true,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/798690486/211c554fd689616d8331272bc6dee518.png",
+        "protected": false
+      },
+      "text": "These debates in a nutshell: @msengupta #GOPDebate http://t.co/zDadm86PQJ",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644289430639906816,
+      "extended_entities": {
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD50rKWoAAY6cj.png",
+            "type": "photo",
+            "id_str": "644289430048645120",
+            "url": "http://t.co/zDadm86PQJ",
+            "media_url": "http://pbs.twimg.com/media/CPD50rKWoAAY6cj.png",
+            "id": 644289430048645120,
+            "expanded_url": "http://twitter.com/kelly_c_roache/status/644289430639906816/photo/1",
+            "display_url": "pic.twitter.com/zDadm86PQJ",
+            "indices": [
+              51,
+              73
+            ],
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 315
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 104
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 184
+              }
+            }
+          }
+        ]
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644289430639906816,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/637743250208636929/G1HeFduD_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "3B94D9",
+      "description": "PM @aiaa, Fmr engr @FAANews, fmr Space Station instructor @NASA, @WilsonSchool grad. Space Advocate. Lifter. Writer. Singer. ❤️ of all things TX. Tweets my own.",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "Madhurita Sengupta",
+      "followers_count": 449,
+      "created_at": "Wed Jul 07 20:58:09 +0000 2010",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 10309,
+      "verified": false,
+      "profile_use_background_image": false,
+      "id_str": "164015206",
+      "lang": "en",
+      "url": "http://msengupta.wordpress.com",
+      "listed_count": 54,
+      "screen_name": "msengupta",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/637743250208636929/G1HeFduD_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/164015206/1420689769",
+      "favourites_count": 929,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Washington, D.C.",
+      "friends_count": 1148,
+      "id": 164015206,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644289430639906816",
+    "id_str": "644292050670747648",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/kelly_c_roache/status/644289430639906816",
+          "indices": [
+            78,
+            101
+          ],
+          "display_url": "twitter.com/kelly_c_roache…",
+          "url": "https://t.co/UzbcSLaypg"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "I do what I can to summarize things eloquently; effectively, and efficiently. https://t.co/UzbcSLaypg",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292050670747648,
+    "timestamp_ms": "1442446169904",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": "644287982451585025",
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "25527925",
+          "name": "Alice King",
+          "screen_name": "WildChild69",
+          "id": 25527925
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644292049290682368",
+    "lang": "en",
+    "user": {
+      "time_zone": "Tijuana",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/643494772397768704/MNuKrtKm_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "9266CC",
+      "description": "#TEOT :: =POPE= POEE :: slave to vegetables :: #TDOT",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "Saint Toad, KSC",
+      "followers_count": 896,
+      "created_at": "Sun Oct 25 16:52:07 +0000 2009",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 23897,
+      "verified": false,
+      "profile_use_background_image": false,
+      "id_str": "85117657",
+      "lang": "en",
+      "url": null,
+      "listed_count": 57,
+      "screen_name": "sainttoad",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/643494772397768704/MNuKrtKm_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85117657/1442256394",
+      "favourites_count": 15072,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "VALIS Orbital Platform",
+      "friends_count": 1716,
+      "id": 85117657,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "@WildChild69 \n\nI didn't know that. It does explain a lot. Unlike Trump, who has money but also support, Santorum never gets much support.",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": 644287982451585025,
+    "in_reply_to_user_id_str": "25527925",
+    "id": 644292049290682368,
+    "timestamp_ms": "1442446169575",
+    "in_reply_to_user_id": 25527925,
+    "in_reply_to_screen_name": "WildChild69"
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:25:46 +0000 2015",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "http://cnn.it/1UVWaS9",
+            "indices": [
+              60,
+              82
+            ],
+            "display_url": "cnn.it/1UVWaS9",
+            "url": "http://t.co/B6Hr6Xbmej"
+          },
+          {
+            "expanded_url": "http://cnn.it/1Lz0OQU",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "cnn.it/1Lz0OQU",
+            "url": "http://t.co/UCa5X5lf1U"
+          }
+        ],
+        "trends": [],
+        "hashtags": [
+          {
+            "indices": [
+              83,
+              93
+            ],
+            "text": "CNNDebate"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              8,
+              24
+            ],
+            "id_str": "432895323",
+            "name": "Lindsey Graham",
+            "screen_name": "LindseyGrahamSC",
+            "id": 432895323
+          }
+        ]
+      },
+      "truncated": false,
+      "id_str": "644291114137202688",
+      "lang": "en",
+      "user": {
+        "time_zone": "Eastern Time (US & Canada)",
+        "following": null,
+        "utc_offset": -14400,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+        "contributors_enabled": false,
+        "profile_background_color": "323232",
+        "notifications": null,
+        "profile_link_color": "004287",
+        "description": "It’s our job to #GoThere and tell the most difficult stories. Come with us!",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "default_profile_image": false,
+        "name": "CNN",
+        "followers_count": 19609308,
+        "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+        "profile_text_color": "000000",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+        "statuses_count": 67031,
+        "verified": true,
+        "profile_use_background_image": false,
+        "id_str": "759251",
+        "lang": "en",
+        "url": "http://www.cnn.com",
+        "listed_count": 107719,
+        "screen_name": "CNN",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+        "is_translator": false,
+        "profile_sidebar_border_color": "000000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1435597326",
+        "favourites_count": 1287,
+        "default_profile": false,
+        "profile_background_tile": false,
+        "location": "",
+        "friends_count": 1103,
+        "id": 759251,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+        "protected": false
+      },
+      "text": "1st act @LindseyGrahamSC will do as president: \"Drink more\" http://t.co/B6Hr6Xbmej #CNNDebate http://t.co/UCa5X5lf1U",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644291114137202688,
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644291114137202688,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/631560924856492032/IOiuQ89__normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "ABB8C2",
+      "description": "look at that.... you found me...",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "hector srsly",
+      "followers_count": 508,
+      "created_at": "Sat Nov 03 16:02:35 +0000 2012",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 5350,
+      "verified": false,
+      "profile_use_background_image": false,
+      "id_str": "923501498",
+      "lang": "en",
+      "url": null,
+      "listed_count": 6,
+      "screen_name": "griffin_hector",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/631560924856492032/IOiuQ89__normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/923501498/1442255622",
+      "favourites_count": 3639,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Somewhere in and around NYC ",
+      "friends_count": 482,
+      "id": 923501498,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644291114137202688",
+    "id_str": "644292050700140544",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/CNN/status/644291114137202688",
+          "indices": [
+            66,
+            89
+          ],
+          "display_url": "twitter.com/CNN/status/644…",
+          "url": "https://t.co/FBwjCOiCqJ"
+        }
+      ],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            64
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "\"Drink more..\"   Lindsey Graham family owned a bar..  #GOPDebate  https://t.co/FBwjCOiCqJ",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292050700140544,
+    "timestamp_ms": "1442446169911",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            85,
+            91
+          ],
+          "text": "TRUMP"
+        },
+        {
+          "indices": [
+            92,
+            102
+          ],
+          "text": "Trump2016"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            18,
+            31
+          ],
+          "id_str": "65691824",
+          "name": "Carly Fiorina",
+          "screen_name": "CarlyFiorina",
+          "id": 65691824
+        },
+        {
+          "indices": [
+            63,
+            79
+          ],
+          "id_str": "25073877",
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump",
+          "id": 25073877
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644292050880495617",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/557878498153361408/moMJp9LW_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "131516",
+      "notifications": null,
+      "profile_link_color": "000000",
+      "description": null,
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "Big Tuna",
+      "followers_count": 130,
+      "created_at": "Tue Feb 19 02:02:50 +0000 2013",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "statuses_count": 2419,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "1195556604",
+      "lang": "en",
+      "url": null,
+      "listed_count": 5,
+      "screen_name": "BigTuna212",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/557878498153361408/moMJp9LW_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1195556604/1433044041",
+      "favourites_count": 1072,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "",
+      "friends_count": 106,
+      "id": 1195556604,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false
+    },
+    "text": "Hugh Hewitt &amp; @CarlyFiorina paid by Koch Bros. to take out @realDonaldTrump imo. #TRUMP #Trump2016",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292050880495617,
+    "timestamp_ms": "1442446169954",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:29 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8NAJWwAAKRUv.jpg",
+          "type": "photo",
+          "id_str": "644292047021719552",
+          "url": "http://t.co/1dil0OCeAt",
+          "media_url": "http://pbs.twimg.com/media/CPD8NAJWwAAKRUv.jpg",
+          "id": 644292047021719552,
+          "expanded_url": "http://twitter.com/preetwilson/status/644292050612060160/photo/1",
+          "display_url": "pic.twitter.com/1dil0OCeAt",
+          "indices": [
+            57,
+            79
+          ],
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 520,
+              "resize": "fit",
+              "h": 650
+            },
+            "large": {
+              "w": 520,
+              "resize": "fit",
+              "h": 650
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 425
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "text": "defundpp"
+        },
+        {
+          "indices": [
+            10,
+            27
+          ],
+          "text": "ppsellsbabyparts"
+        },
+        {
+          "indices": [
+            28,
+            34
+          ],
+          "text": "PJNET"
+        },
+        {
+          "indices": [
+            35,
+            45
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            46,
+            56
+          ],
+          "text": "CNNDebate"
+        }
+      ]
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446169890",
+    "id_str": "644292050612060160",
+    "lang": "und",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/639575723150319616/mf37UGwY_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Human Being",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Preet Wilson",
+      "followers_count": 167,
+      "created_at": "Sat Jun 11 23:23:58 +0000 2011",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 1090,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "315482889",
+      "lang": "en",
+      "url": null,
+      "listed_count": 4,
+      "screen_name": "preetwilson",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/639575723150319616/mf37UGwY_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/315482889/1439566979",
+      "favourites_count": 1542,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 321,
+      "id": 315482889,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "#defundpp #ppsellsbabyparts #PJNET #GOPDebate #CNNDebate http://t.co/1dil0OCeAt",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292050612060160,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8NAJWwAAKRUv.jpg",
+          "type": "photo",
+          "id_str": "644292047021719552",
+          "url": "http://t.co/1dil0OCeAt",
+          "media_url": "http://pbs.twimg.com/media/CPD8NAJWwAAKRUv.jpg",
+          "id": 644292047021719552,
+          "expanded_url": "http://twitter.com/preetwilson/status/644292050612060160/photo/1",
+          "display_url": "pic.twitter.com/1dil0OCeAt",
+          "indices": [
+            57,
+            79
+          ],
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 520,
+              "resize": "fit",
+              "h": 650
+            },
+            "large": {
+              "w": 520,
+              "resize": "fit",
+              "h": 650
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 425
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:26:51 +0000 2015",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "http://tws.io/1FMIPEE",
+            "indices": [
+              65,
+              87
+            ],
+            "display_url": "tws.io/1FMIPEE",
+            "url": "http://t.co/C4SBGczpp7"
+          }
+        ],
+        "trends": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD7lgGWcAAczuX.jpg",
+            "type": "photo",
+            "id_str": "644291368404283392",
+            "url": "http://t.co/v6m3iuspYF",
+            "media_url": "http://pbs.twimg.com/media/CPD7lgGWcAAczuX.jpg",
+            "id": 644291368404283392,
+            "expanded_url": "http://twitter.com/weeklystandard/status/644291385223417856/photo/1",
+            "display_url": "pic.twitter.com/v6m3iuspYF",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 681
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "hashtags": [
+          {
+            "indices": [
+              46,
+              56
+            ],
+            "text": "GOPdebate"
+          }
+        ]
+      },
+      "truncated": false,
+      "id_str": "644291385223417856",
+      "lang": "en",
+      "user": {
+        "time_zone": "Central Time (US & Canada)",
+        "following": null,
+        "utc_offset": -18000,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458725650854342656/dkGLkSSP_normal.jpeg",
+        "contributors_enabled": false,
+        "profile_background_color": "11235B",
+        "notifications": null,
+        "profile_link_color": "ED1B34",
+        "description": "A magazine of news and opinion",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "default_profile_image": false,
+        "name": "The Weekly Standard",
+        "followers_count": 113964,
+        "created_at": "Fri Nov 21 22:00:29 +0000 2008",
+        "profile_text_color": "333333",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000009524560/eaa12a941be31f0b4a647fa9ec0f494f.jpeg",
+        "statuses_count": 27994,
+        "verified": true,
+        "profile_use_background_image": false,
+        "id_str": "17546958",
+        "lang": "en",
+        "url": "http://www.weeklystandard.com",
+        "listed_count": 3743,
+        "screen_name": "weeklystandard",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458725650854342656/dkGLkSSP_normal.jpeg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17546958/1441325644",
+        "favourites_count": 143,
+        "default_profile": false,
+        "profile_background_tile": true,
+        "location": "Washington",
+        "friends_count": 15847,
+        "id": 17546958,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000009524560/eaa12a941be31f0b4a647fa9ec0f494f.jpeg",
+        "protected": false
+      },
+      "text": "This is what each candidate should say at the #GOPdebate tonight http://t.co/C4SBGczpp7 http://t.co/v6m3iuspYF",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644291385223417856,
+      "extended_entities": {
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD7lgGWcAAczuX.jpg",
+            "type": "photo",
+            "id_str": "644291368404283392",
+            "url": "http://t.co/v6m3iuspYF",
+            "media_url": "http://pbs.twimg.com/media/CPD7lgGWcAAczuX.jpg",
+            "id": 644291368404283392,
+            "expanded_url": "http://twitter.com/weeklystandard/status/644291385223417856/photo/1",
+            "display_url": "pic.twitter.com/v6m3iuspYF",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 681
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              }
+            }
+          }
+        ]
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644291385223417856,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:30 +0000 2015",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/635657067471081472/aQu5NHG4_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "DD2E44",
+      "description": "Believer in God & Country!\nHusband, Father, Son, Brother of American Patriots!",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "Dan_at_the_Lake",
+      "followers_count": 149,
+      "created_at": "Fri Dec 16 03:45:29 +0000 2011",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 958,
+      "verified": false,
+      "profile_use_background_image": false,
+      "id_str": "438044639",
+      "lang": "en",
+      "url": null,
+      "listed_count": 2,
+      "screen_name": "comptodw",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/635657067471081472/aQu5NHG4_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/438044639/1434853640",
+      "favourites_count": 60,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 203,
+      "id": 438044639,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644291385223417856",
+    "id_str": "644292051547193344",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/weeklystandard/status/644291385223417856",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/weeklystandard…",
+          "url": "https://t.co/02H828j5Wd"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "What Weekly Standard thinks is very immaterial, what most say is meaningless, What TRUMP says is ALL I care about! https://t.co/02H828j5Wd",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292051547193344,
+    "timestamp_ms": "1442446170113",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:30 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            45
+          ],
+          "text": "CNNDebate"
+        },
+        {
+          "indices": [
+            46,
+            56
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292051622756352",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/571103378706599937/N2eC3Wv7_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "5C686E",
+      "notifications": null,
+      "profile_link_color": "101638",
+      "description": "Christian. Conservative. Hispanic. Woman. How do you like that? Texas Tech Fan, Dallas Mavs. Erik Is My Soulmate ❤️",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Mona",
+      "followers_count": 767,
+      "created_at": "Sat Mar 03 21:17:20 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497207604234301440/5Va5gUWZ.jpeg",
+      "statuses_count": 7320,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "513611763",
+      "lang": "en",
+      "url": null,
+      "listed_count": 13,
+      "screen_name": "monalesaa",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/571103378706599937/N2eC3Wv7_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/513611763/1439181634",
+      "favourites_count": 1775,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "United States",
+      "friends_count": 908,
+      "id": 513611763,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497207604234301440/5Va5gUWZ.jpeg",
+      "protected": false
+    },
+    "text": "I'm actually impressed with Pataki #CNNDebate #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292051622756352,
+    "timestamp_ms": "1442446170131",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:30 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            74,
+            84
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            85,
+            96
+          ],
+          "text": "MathIsHard"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644292052184866816",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/614217600801730560/K91UbSAj_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "I am running to represent Maryland's District 4. I believe that instead of governing crisis to crisis, we should be actively planning for the future.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Terence Strait",
+      "followers_count": 35,
+      "created_at": "Thu Jun 25 15:35:35 +0000 2015",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 344,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "3255710934",
+      "lang": "en",
+      "url": "http://www.straitforcongress.com",
+      "listed_count": 1,
+      "screen_name": "strait2016",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/614217600801730560/K91UbSAj_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "favourites_count": 29,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "Capitol Heights, MD",
+      "friends_count": 112,
+      "id": 3255710934,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "If you came \"4 votes short\" you were opposed by a lot more than 4 people. #GOPDebate #MathIsHard",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292052184866816,
+    "timestamp_ms": "1442446170265",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 21:47:02 +0000 2015",
+      "entities": {
+        "urls": [],
+        "trends": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPDkwcFVEAAU5x9.jpg",
+            "type": "photo",
+            "id_str": "644266267537379328",
+            "url": "http://t.co/xrbGQTzbcm",
+            "media_url": "http://pbs.twimg.com/media/CPDkwcFVEAAU5x9.jpg",
+            "id": 644266267537379328,
+            "expanded_url": "http://twitter.com/jaketapper/status/644266267679961088/photo/1",
+            "display_url": "pic.twitter.com/xrbGQTzbcm",
+            "indices": [
+              27,
+              49
+            ],
+            "sizes": {
+              "large": {
+                "w": 969,
+                "resize": "fit",
+                "h": 1292
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              26
+            ],
+            "text": "CNNDebate"
+          }
+        ]
+      },
+      "truncated": false,
+      "id_str": "644266267679961088",
+      "lang": "en",
+      "user": {
+        "time_zone": "Eastern Time (US & Canada)",
+        "following": null,
+        "utc_offset": -14400,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/416044148425502720/FRKCS5pH_normal.jpeg",
+        "contributors_enabled": false,
+        "profile_background_color": "EDECE9",
+        "notifications": null,
+        "profile_link_color": "088253",
+        "description": "CNN Anchor and Chief Washington Correspondent. Dissecting my tweets with Talmudic meticulousness will result in wrong conclusions. RTs do not = endorsement.",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "default_profile_image": false,
+        "name": "Jake Tapper",
+        "followers_count": 409481,
+        "created_at": "Fri Apr 25 17:23:28 +0000 2008",
+        "profile_text_color": "634047",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/743633139/bae4b64f714195d0c2d2dff162ac596e.jpeg",
+        "statuses_count": 105516,
+        "verified": true,
+        "profile_use_background_image": true,
+        "id_str": "14529929",
+        "lang": "en",
+        "url": "http://www.facebook.com/OutpostBook",
+        "listed_count": 11556,
+        "screen_name": "jaketapper",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/416044148425502720/FRKCS5pH_normal.jpeg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14529929/1353593155",
+        "favourites_count": 480,
+        "default_profile": false,
+        "profile_background_tile": false,
+        "location": "",
+        "friends_count": 4294,
+        "id": 14529929,
+        "geo_enabled": true,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/743633139/bae4b64f714195d0c2d2dff162ac596e.jpeg",
+        "protected": false
+      },
+      "text": "Let's do this.\n\n#CNNDebate http://t.co/xrbGQTzbcm",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644266267679961088,
+      "extended_entities": {
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPDkwcFVEAAU5x9.jpg",
+            "type": "photo",
+            "id_str": "644266267537379328",
+            "url": "http://t.co/xrbGQTzbcm",
+            "media_url": "http://pbs.twimg.com/media/CPDkwcFVEAAU5x9.jpg",
+            "id": 644266267537379328,
+            "expanded_url": "http://twitter.com/jaketapper/status/644266267679961088/photo/1",
+            "display_url": "pic.twitter.com/xrbGQTzbcm",
+            "indices": [
+              27,
+              49
+            ],
+            "sizes": {
+              "large": {
+                "w": 969,
+                "resize": "fit",
+                "h": 1292
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              }
+            }
+          }
+        ]
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644266267679961088,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:29:30 +0000 2015",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/628926783908229120/ZxAYQZ2L_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "notifications": null,
+      "profile_link_color": "3B94D9",
+      "description": "Aric is a PR strategists serving the public interest. Caplan Communications® champions public health, the environment, social justice causes and clean energy.",
+      "profile_sidebar_fill_color": "5698E8",
+      "default_profile_image": false,
+      "name": "Aric Caplan",
+      "followers_count": 3730,
+      "created_at": "Thu Aug 28 04:25:43 +0000 2008",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/32334496/grizzly.jpg",
+      "statuses_count": 34024,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "16023201",
+      "lang": "en",
+      "url": "http://www.CaplanCommunications.com",
+      "listed_count": 246,
+      "screen_name": "CaplanComms",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/628926783908229120/ZxAYQZ2L_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16023201/1442281043",
+      "favourites_count": 501,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Washington D.C. Metro",
+      "friends_count": 1771,
+      "id": 16023201,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/32334496/grizzly.jpg",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644266267679961088",
+    "id_str": "644292051882782720",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "http://huff.to/1FhjCaK",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "huff.to/1FhjCaK",
+          "url": "http://t.co/IfaSEsb4uj"
+        },
+        {
+          "expanded_url": "https://twitter.com/jaketapper/status/644266267679961088",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/jaketapper/sta…",
+          "url": "https://t.co/TnX5C8nvMZ"
+        }
+      ],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            30,
+            40
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            62,
+            70
+          ],
+          "text": "climate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            5,
+            9
+          ],
+          "id_str": "759251",
+          "name": "CNN",
+          "screen_name": "CNN",
+          "id": 759251
+        },
+        {
+          "indices": [
+            77,
+            88
+          ],
+          "id_str": "14529929",
+          "name": "Jake Tapper",
+          "screen_name": "jaketapper",
+          "id": 14529929
+        }
+      ]
+    },
+    "text": "Will @CNN mention \"C-Word\" at #GOPDebate? Fox wouldn't touch \"#climate,\" but @JakeTapper may. http://t.co/IfaSEsb4uj https://t.co/TnX5C8nvMZ",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644292051882782720,
+    "timestamp_ms": "1442446170193",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  }
+]

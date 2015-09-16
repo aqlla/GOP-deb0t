@@ -1,0 +1,3181 @@
+[
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            38,
+            48
+          ],
+          "text": "CNNDebate"
+        },
+        {
+          "indices": [
+            49,
+            59
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            60,
+            69
+          ],
+          "text": "OnDayOne"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291846760337408",
+    "lang": "en",
+    "user": {
+      "time_zone": "Arizona",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3601146234/b2a759de44d265942d456b6ffc7fefd0_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "000203",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Just a man; an engaged, observant, vocal, politically aware, short-tempered, offended-by-hypocrisy, opinion-laden man with 35 years of journalism behind me.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Gary St. Lawrence",
+      "followers_count": 32,
+      "created_at": "Tue Sep 15 04:41:33 +0000 2009",
+      "profile_text_color": "242424",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/65753077/Twitter_Background_1.jpg",
+      "statuses_count": 1170,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "74367156",
+      "lang": "en",
+      "url": "http://thecriticalaye.com",
+      "listed_count": 5,
+      "screen_name": "GaryStLawrence",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3601146234/b2a759de44d265942d456b6ffc7fefd0_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/74367156/1397314599",
+      "favourites_count": 46,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Arizona",
+      "friends_count": 144,
+      "id": 74367156,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/65753077/Twitter_Background_1.jpg",
+      "protected": false
+    },
+    "text": "Ye gads! Day One is gonna be *BUSY*!!\n#CNNDebate #GOPDebate #OnDayOne",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291846760337408,
+    "timestamp_ms": "1442446121288",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": "644291515804684288",
+    "retweeted": false,
+    "place": {
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.0510152,
+              41.8319011
+            ],
+            [
+              -88.0510152,
+              41.915092
+            ],
+            [
+              -87.9742996,
+              41.915092
+            ],
+            [
+              -87.9742996,
+              41.8319011
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/9f3d755fe1a081a4.json",
+      "attributes": {},
+      "name": "Lombard",
+      "full_name": "Lombard, IL",
+      "country_code": "US",
+      "id": "9f3d755fe1a081a4",
+      "country": "United States"
+    },
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            96,
+            106
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "id_str": "18950712",
+          "name": "Nick Gillespie",
+          "screen_name": "nickgillespie",
+          "id": 18950712
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291846856794112",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/632938280321875969/3VsQFQ1M_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "1C032E",
+      "notifications": null,
+      "profile_link_color": "317EB5",
+      "description": "Fmr App/TecSup Mgr, lover of beer, #Gutfeld, my cat, my DVR, board & video games, math, science, scifi, music and beer. Curiously broken, yet still functional.",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "default_profile_image": false,
+      "name": "David McKenna",
+      "followers_count": 620,
+      "created_at": "Tue Mar 24 08:50:12 +0000 2009",
+      "profile_text_color": "3D1957",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634496281013026816/jHO0WMsn.jpg",
+      "statuses_count": 29703,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "26202180",
+      "lang": "en",
+      "url": null,
+      "listed_count": 25,
+      "screen_name": "DSMac27",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/632938280321875969/3VsQFQ1M_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26202180/1410259399",
+      "favourites_count": 16006,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Chicagoland",
+      "friends_count": 880,
+      "id": 26202180,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634496281013026816/jHO0WMsn.jpg",
+      "protected": false
+    },
+    "text": "@nickgillespie Yeah, but you know how you're likely to spend more after you've been drinking... #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": 644291515804684288,
+    "in_reply_to_user_id_str": "18950712",
+    "id": 644291846856794112,
+    "timestamp_ms": "1442446121311",
+    "in_reply_to_user_id": 18950712,
+    "in_reply_to_screen_name": "nickgillespie"
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            91,
+            97
+          ],
+          "text": "irony"
+        },
+        {
+          "indices": [
+            98,
+            111
+          ],
+          "text": "getoffmylawn"
+        },
+        {
+          "indices": [
+            112,
+            118
+          ],
+          "text": "Trump"
+        },
+        {
+          "indices": [
+            119,
+            124
+          ],
+          "text": "Time"
+        },
+        {
+          "indices": [
+            125,
+            131
+          ],
+          "text": "T1987"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "id_str": "14293310",
+          "name": "TIME.com",
+          "screen_name": "TIME",
+          "id": 14293310
+        },
+        {
+          "indices": [
+            6,
+            22
+          ],
+          "id_str": "25073877",
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump",
+          "id": 25073877
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291847259594752",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": true,
+      "name": "briar hanna",
+      "followers_count": 13,
+      "created_at": "Tue Aug 25 16:32:39 +0000 2015",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 26,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "3439337513",
+      "lang": "en",
+      "url": null,
+      "listed_count": 0,
+      "screen_name": "ToxicXposure",
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "favourites_count": 3,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 42,
+      "id": 3439337513,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "@TIME @realDonaldTrump \"the fact is that I don't like publicity\"\n&lt;Donald Trump 1987&gt; #irony #getoffmylawn #Trump #Time #T1987",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": "14293310",
+    "id": 644291847259594752,
+    "timestamp_ms": "1442446121407",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_screen_name": "TIME"
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://goo.gl/7kifqw",
+          "indices": [
+            17,
+            40
+          ],
+          "display_url": "goo.gl/7kifqw",
+          "url": "https://t.co/nAKxcOnrQe"
+        }
+      ],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPDpBQXVAAAUwzF.jpg",
+          "id_str": "644270954495934464",
+          "url": "http://t.co/c20stedZ9J",
+          "source_status_id": 644270957759213568,
+          "type": "photo",
+          "indices": [
+            115,
+            137
+          ],
+          "source_status_id_str": "644270957759213568",
+          "media_url": "http://pbs.twimg.com/media/CPDpBQXVAAAUwzF.jpg",
+          "id": 644270954495934464,
+          "expanded_url": "http://twitter.com/DrMartyFox/status/644270957759213568/photo/1",
+          "display_url": "pic.twitter.com/c20stedZ9J",
+          "sizes": {
+            "large": {
+              "w": 574,
+              "resize": "fit",
+              "h": 356
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 574,
+              "resize": "fit",
+              "h": 356
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "indices": [
+            69,
+            75
+          ],
+          "text": "Trump"
+        },
+        {
+          "indices": [
+            87,
+            94
+          ],
+          "text": "Obamas"
+        },
+        {
+          "indices": [
+            101,
+            107
+          ],
+          "text": "Obama"
+        },
+        {
+          "indices": [
+            111,
+            113
+          ],
+          "text": "A"
+        }
+      ]
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446121445",
+    "id_str": "644291847418957824",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/626682176122126336/ppkoLXXS_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "web apps and platforms for the internet.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Abela",
+      "followers_count": 1183,
+      "created_at": "Thu Jul 30 09:13:38 +0000 2015",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 141116,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "3301301628",
+      "lang": "en",
+      "url": null,
+      "listed_count": 333,
+      "screen_name": "abela_here",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/626682176122126336/ppkoLXXS_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301301628/1438247728",
+      "favourites_count": 11,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "Paris, TX",
+      "friends_count": 2000,
+      "id": 3301301628,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "Chairmnoomowmow: https://t.co/nAKxcOnrQe RT DrMartyFox: Good News❗️\n\n#Trump Gets Under #Obamas Skin\n\n#Obama ➡️ #A… http://t.co/c20stedZ9J",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291847418957824,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPDpBQXVAAAUwzF.jpg",
+          "id_str": "644270954495934464",
+          "url": "http://t.co/c20stedZ9J",
+          "source_status_id": 644270957759213568,
+          "type": "photo",
+          "indices": [
+            115,
+            137
+          ],
+          "source_status_id_str": "644270957759213568",
+          "media_url": "http://pbs.twimg.com/media/CPDpBQXVAAAUwzF.jpg",
+          "id": 644270954495934464,
+          "expanded_url": "http://twitter.com/DrMartyFox/status/644270957759213568/photo/1",
+          "display_url": "pic.twitter.com/c20stedZ9J",
+          "sizes": {
+            "large": {
+              "w": 574,
+              "resize": "fit",
+              "h": 356
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 574,
+              "resize": "fit",
+              "h": 356
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            67,
+            77
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291847242706945",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/619980550690832384/wIVauwpq_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "FFF04D",
+      "notifications": null,
+      "profile_link_color": "0099CC",
+      "description": "Coffee enthusiast || Student of photography and journalism.",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "default_profile_image": false,
+      "name": "Amanda Beaty",
+      "followers_count": 273,
+      "created_at": "Thu Apr 16 03:24:54 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/871801566/3e4309161a2f32be519487c38965d3ad.jpeg",
+      "statuses_count": 5969,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "31626039",
+      "lang": "en",
+      "url": null,
+      "listed_count": 9,
+      "screen_name": "amandabeaty7",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/619980550690832384/wIVauwpq_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31626039/1440040881",
+      "favourites_count": 1314,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Texas",
+      "friends_count": 375,
+      "id": 31626039,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/871801566/3e4309161a2f32be519487c38965d3ad.jpeg",
+      "protected": false
+    },
+    "text": "Lindsey Graham unleashed. He really wants a seat at the big table. #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291847242706945,
+    "timestamp_ms": "1442446121403",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "limit": {
+      "timestamp_ms": "1442446121883",
+      "track": 2
+    }
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            67,
+            77
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291848870072320",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/487659151669985280/5CIqyU0-_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "131516",
+      "notifications": null,
+      "profile_link_color": "009999",
+      "description": "The World's Leading #LGBT #News Source",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "default_profile_image": false,
+      "name": "The Advocate",
+      "followers_count": 175850,
+      "created_at": "Mon Feb 23 20:52:12 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "statuses_count": 39708,
+      "verified": true,
+      "profile_use_background_image": false,
+      "id_str": "21692297",
+      "lang": "en",
+      "url": "http://www.advocate.com",
+      "listed_count": 4286,
+      "screen_name": "TheAdvocateMag",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/487659151669985280/5CIqyU0-_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21692297/1441736802",
+      "favourites_count": 1748,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Los Angeles, CA",
+      "friends_count": 662,
+      "id": 21692297,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false
+    },
+    "text": "Rick Santorum: Give more weapons to Israel to defend against Iran. #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291848870072320,
+    "timestamp_ms": "1442446121791",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            81,
+            91
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            13
+          ],
+          "id_str": "17078632",
+          "name": "Gov. Bobby Jindal",
+          "screen_name": "BobbyJindal",
+          "id": 17078632
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291848857477120",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310272598/pattile_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "191A1A",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "I talk about things that matter with people that care!\r\n\r\nThe Pat Campbell Show is heard weekday mornings 6 a.m. to 9 a.m. on Talk Radio 1170 KFAQ.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Pat Campbell",
+      "followers_count": 2072,
+      "created_at": "Wed Apr 13 15:22:47 +0000 2011",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 17724,
+      "verified": false,
+      "profile_use_background_image": false,
+      "id_str": "281582041",
+      "lang": "en",
+      "url": "http://1170kfaq.com",
+      "listed_count": 54,
+      "screen_name": "PC1170",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1310272598/pattile_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281582041/1404570968",
+      "favourites_count": 1726,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "N 36°18' 0'' / W 95°48' 0''",
+      "friends_count": 1702,
+      "id": 281582041,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": ".@BobbyJindal : \"Give us a list of jobs that Christians aren’t allowed to have.” #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291848857477120,
+    "timestamp_ms": "1442446121788",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:15:37 +0000 2015",
+      "entities": {
+        "urls": [],
+        "trends": [],
+        "hashtags": [
+          {
+            "indices": [
+              65,
+              75
+            ],
+            "text": "GOPdebate"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "truncated": false,
+      "id_str": "644288559080341505",
+      "lang": "en",
+      "user": {
+        "time_zone": "Mexico City",
+        "following": null,
+        "utc_offset": -18000,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643435251226644481/ejE27WiI_normal.jpg",
+        "contributors_enabled": false,
+        "profile_background_color": "000000",
+        "notifications": null,
+        "profile_link_color": "FA4B2A",
+        "description": "COO at http://TheAmericanGenius.com & http://TheRealDaily.com; co-founder of #BASHH and Austin Digital Jobs. I reserve the right to cuss and be wrong. A lot.",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "default_profile_image": false,
+        "name": "Lani Rosales",
+        "followers_count": 10988,
+        "created_at": "Sat Jan 19 04:45:11 +0000 2008",
+        "profile_text_color": "303030",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800337843/4c44b4031611e7ea2e63debb58498d45.png",
+        "statuses_count": 59153,
+        "verified": false,
+        "profile_use_background_image": true,
+        "id_str": "12423822",
+        "lang": "en",
+        "url": "http://icon.me/lani",
+        "listed_count": 790,
+        "screen_name": "laniar",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643435251226644481/ejE27WiI_normal.jpg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "000000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12423822/1381943375",
+        "favourites_count": 45,
+        "default_profile": false,
+        "profile_background_tile": false,
+        "location": "Austin, TX",
+        "friends_count": 6787,
+        "id": 12423822,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800337843/4c44b4031611e7ea2e63debb58498d45.png",
+        "protected": false
+      },
+      "text": "Oh hey, CATS were just mentioned in the debate, yay! go kitties! #GOPdebate",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644288559080341505,
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644288559080341505,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:41 +0000 2015",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/638781706183548928/bDrBxVLC_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "notifications": null,
+      "profile_link_color": "ED0961",
+      "description": "Burnrer, Hooper, Traveler, Photog & Foodie. I curse like a sailor, my snark factor is high, & whimsey required. Random booty dance parties appear. Be prepared.",
+      "profile_sidebar_fill_color": "FAEA91",
+      "default_profile_image": false,
+      "name": "Erica Kuschel",
+      "followers_count": 15440,
+      "created_at": "Sun Mar 14 17:02:16 +0000 2010",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/148865803/OYLTwitter2.jpg",
+      "statuses_count": 26395,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "123003291",
+      "lang": "en",
+      "url": "http://overyonderlust.com",
+      "listed_count": 689,
+      "screen_name": "OverYonderlust",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/638781706183548928/bDrBxVLC_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FF428A",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/123003291/1440729786",
+      "favourites_count": 212,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Austin, Texas",
+      "friends_count": 4414,
+      "id": 123003291,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/148865803/OYLTwitter2.jpg",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644288559080341505",
+    "id_str": "644291848475820032",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/laniar/status/644288559080341505",
+          "indices": [
+            7,
+            30
+          ],
+          "display_url": "twitter.com/laniar/status/…",
+          "url": "https://t.co/vixRBmu2vO"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "*Meow* https://t.co/vixRBmu2vO",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291848475820032,
+    "timestamp_ms": "1442446121697",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:26:41 +0000 2015",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "http://hill.cm/L6206JQ",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "hill.cm/L6206JQ",
+            "url": "http://t.co/Yf9mTVRMYZ"
+          }
+        ],
+        "trends": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD7j_RUcAEwHuI.png",
+            "type": "photo",
+            "id_str": "644291342412050433",
+            "url": "http://t.co/rPx8e33oDu",
+            "media_url": "http://pbs.twimg.com/media/CPD7j_RUcAEwHuI.png",
+            "id": 644291342412050433,
+            "expanded_url": "http://twitter.com/thehill/status/644291343162974208/photo/1",
+            "display_url": "pic.twitter.com/rPx8e33oDu",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "large": {
+                "w": 645,
+                "resize": "fit",
+                "h": 363
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "hashtags": [
+          {
+            "indices": [
+              12,
+              22
+            ],
+            "text": "GOPDebate"
+          }
+        ]
+      },
+      "truncated": false,
+      "id_str": "644291343162974208",
+      "lang": "en",
+      "user": {
+        "time_zone": "Eastern Time (US & Canada)",
+        "following": null,
+        "utc_offset": -14400,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433007452083060737/J_Mq7AKo_normal.jpeg",
+        "contributors_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "notifications": null,
+        "profile_link_color": "FF0021",
+        "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "default_profile_image": false,
+        "name": "The Hill",
+        "followers_count": 609009,
+        "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+        "profile_text_color": "000000",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2509428/twitter_bg.gif",
+        "statuses_count": 126848,
+        "verified": true,
+        "profile_use_background_image": true,
+        "id_str": "1917731",
+        "lang": "en",
+        "url": "http://www.thehill.com",
+        "listed_count": 14894,
+        "screen_name": "thehill",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433007452083060737/J_Mq7AKo_normal.jpeg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "ADADAA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+        "favourites_count": 26,
+        "default_profile": false,
+        "profile_background_tile": true,
+        "location": "Washington, DC",
+        "friends_count": 190,
+        "id": 1917731,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2509428/twitter_bg.gif",
+        "protected": false
+      },
+      "text": "Jindal uses #GOPDebate question on suspended Muslim teen to talk about Kim Davis: http://t.co/Yf9mTVRMYZ http://t.co/rPx8e33oDu",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644291343162974208,
+      "extended_entities": {
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD7j_RUcAEwHuI.png",
+            "type": "photo",
+            "id_str": "644291342412050433",
+            "url": "http://t.co/rPx8e33oDu",
+            "media_url": "http://pbs.twimg.com/media/CPD7j_RUcAEwHuI.png",
+            "id": 644291342412050433,
+            "expanded_url": "http://twitter.com/thehill/status/644291343162974208/photo/1",
+            "display_url": "pic.twitter.com/rPx8e33oDu",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "large": {
+                "w": 645,
+                "resize": "fit",
+                "h": 363
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              }
+            }
+          }
+        ]
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644291343162974208,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615608134598590464/i20JqUVk_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "232729",
+      "notifications": null,
+      "profile_link_color": "B40404",
+      "description": "Writer. Philosophical conservative. #tcot  Add me on FB: http://tinyurl.com/IMindFB  | Tumblr: http://immeasurablemind.tumblr.com",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "default_profile_image": false,
+      "name": "IMind☜",
+      "followers_count": 83,
+      "created_at": "Sun Nov 17 12:02:48 +0000 2013",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/615373008404881408/WPjTYSPw.png",
+      "statuses_count": 1737,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "2199407816",
+      "lang": "en",
+      "url": "http://immeasurablemind.wordpress.com/",
+      "listed_count": 4,
+      "screen_name": "IMindOfficial",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615608134598590464/i20JqUVk_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2199407816/1435607333",
+      "favourites_count": 103,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "",
+      "friends_count": 113,
+      "id": 2199407816,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615373008404881408/WPjTYSPw.png",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644291343162974208",
+    "id_str": "644291850115940352",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/thehill/status/644291343162974208",
+          "indices": [
+            107,
+            130
+          ],
+          "display_url": "twitter.com/thehill/status…",
+          "url": "https://t.co/BmqchP0ZJQ"
+        }
+      ],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            90,
+            100
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            101,
+            106
+          ],
+          "text": "tcot"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Every one of them failed a perfect opportunity to show some empathy for Muslim Americans. #GOPDebate #tcot https://t.co/BmqchP0ZJQ",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291850115940352,
+    "timestamp_ms": "1442446122088",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": "644291497207029760",
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            21,
+            31
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "4207961",
+          "name": "Christopher Hayes",
+          "screen_name": "chrislhayes",
+          "id": 4207961
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291849893482496",
+    "lang": "und",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": true,
+      "name": "Elizabeth Burnside",
+      "followers_count": 16,
+      "created_at": "Thu Sep 18 06:26:56 +0000 2014",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 232,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "2774302042",
+      "lang": "en",
+      "url": null,
+      "listed_count": 0,
+      "screen_name": "elizabe98347386",
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "favourites_count": 62,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 157,
+      "id": 2774302042,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "@chrislhayes YASSSS! #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": 644291497207029760,
+    "in_reply_to_user_id_str": "4207961",
+    "id": 644291849893482496,
+    "timestamp_ms": "1442446122035",
+    "in_reply_to_user_id": 4207961,
+    "in_reply_to_screen_name": "chrislhayes"
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "http://www.cbsnews.com/news/republican-gop-debate-2015-round-one",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "cbsnews.com/news/republica…",
+          "url": "http://t.co/0MHeMatdLy"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            99,
+            107
+          ],
+          "id_str": "15012486",
+          "name": "CBS News",
+          "screen_name": "CBSNews",
+          "id": 15012486
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291850279514113",
+    "lang": "en",
+    "user": {
+      "time_zone": "Atlantic Time (Canada)",
+      "following": null,
+      "utc_offset": -10800,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/642342058947121152/4IRGVXQS_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "I'm a writer... where's the coffee? @lightning_blog",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Eleni",
+      "followers_count": 122,
+      "created_at": "Mon Oct 07 01:11:29 +0000 2013",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 5811,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "1942534322",
+      "lang": "en",
+      "url": "http://lightningbold.com",
+      "listed_count": 5,
+      "screen_name": "eleni_grace",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/642342058947121152/4IRGVXQS_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942534322/1441027758",
+      "favourites_count": 7144,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "New York, NY",
+      "friends_count": 85,
+      "id": 1942534322,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "GOP's lower-polling candidates weigh in on Trump, immigration and taxes http://t.co/0MHeMatdLy via @cbsnews",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291850279514113,
+    "timestamp_ms": "1442446122127",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:26:52 +0000 2015",
+      "entities": {
+        "urls": [],
+        "trends": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+            "type": "photo",
+            "id_str": "644291390151618560",
+            "url": "http://t.co/ruX1DRXLAu",
+            "media_url": "http://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+            "id": 644291390151618560,
+            "expanded_url": "http://twitter.com/KyleKulinski/status/644291390785093633/photo/1",
+            "display_url": "pic.twitter.com/ruX1DRXLAu",
+            "indices": [
+              58,
+              80
+            ],
+            "sizes": {
+              "large": {
+                "w": 675,
+                "resize": "fit",
+                "h": 360
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 320
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 181
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "hashtags": [
+          {
+            "indices": [
+              47,
+              57
+            ],
+            "text": "GOPDebate"
+          }
+        ]
+      },
+      "truncated": false,
+      "id_str": "644291390785093633",
+      "lang": "en",
+      "user": {
+        "time_zone": null,
+        "following": null,
+        "utc_offset": null,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/533635459390246913/ZpVG_HcS_normal.jpeg",
+        "contributors_enabled": false,
+        "profile_background_color": "C0DEED",
+        "notifications": null,
+        "profile_link_color": "0084B4",
+        "description": "Host of The Kyle Kulinski Show on Secular Talk Radio & TYT Network. http://facebook.com/seculartalk http://seculartalkradio.com",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "default_profile_image": false,
+        "name": "SecularTalk™",
+        "followers_count": 11021,
+        "created_at": "Wed May 12 16:05:25 +0000 2010",
+        "profile_text_color": "333333",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "statuses_count": 24998,
+        "verified": false,
+        "profile_use_background_image": true,
+        "id_str": "143104075",
+        "lang": "en",
+        "url": "http://youtube.com/seculartalk",
+        "listed_count": 165,
+        "screen_name": "KyleKulinski",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/533635459390246913/ZpVG_HcS_normal.jpeg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143104075/1414682188",
+        "favourites_count": 88,
+        "default_profile": true,
+        "profile_background_tile": false,
+        "location": "New York",
+        "friends_count": 886,
+        "id": 143104075,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false
+      },
+      "text": "Lindsey Graham: \"We need to grow our military\" #GOPDebate http://t.co/ruX1DRXLAu",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644291390785093633,
+      "extended_entities": {
+        "media": [
+          {
+            "media_url_https": "https://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+            "type": "photo",
+            "id_str": "644291390151618560",
+            "url": "http://t.co/ruX1DRXLAu",
+            "media_url": "http://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+            "id": 644291390151618560,
+            "expanded_url": "http://twitter.com/KyleKulinski/status/644291390785093633/photo/1",
+            "display_url": "pic.twitter.com/ruX1DRXLAu",
+            "indices": [
+              58,
+              80
+            ],
+            "sizes": {
+              "large": {
+                "w": 675,
+                "resize": "fit",
+                "h": 360
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 320
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 181
+              }
+            }
+          }
+        ]
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644291390785093633,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/497420115395088384/UCHkcAwf_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "Our government should represent us not the corporate landscape that attempts to bribe them every day!",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Gov4Sale",
+      "followers_count": 4763,
+      "created_at": "Thu Aug 07 16:15:57 +0000 2014",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 1077,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "2714874518",
+      "lang": "en",
+      "url": null,
+      "listed_count": 28,
+      "screen_name": "Gov4Sale",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/497420115395088384/UCHkcAwf_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2714874518/1434723407",
+      "favourites_count": 1052,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 4891,
+      "id": 2714874518,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644291390785093633",
+    "id_str": "644291851239989249",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/KyleKulinski/status/644291390785093633",
+          "indices": [
+            36,
+            59
+          ],
+          "display_url": "twitter.com/KyleKulinski/s…",
+          "url": "https://t.co/VLr0DqdaCJ"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "He has no idea how Carriers work... https://t.co/VLr0DqdaCJ",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291851239989249,
+    "timestamp_ms": "1442446122356",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            28,
+            38
+          ],
+          "text": "GOPDebate"
+        },
+        {
+          "indices": [
+            84,
+            96
+          ],
+          "text": "DisneyWorld"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            98,
+            111
+          ],
+          "id_str": "18247597",
+          "name": "Fox 5 San Diego",
+          "screen_name": "fox5sandiego",
+          "id": 18247597
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291851416043520",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/641098068088123393/pbtRZpik_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "FFF04D",
+      "notifications": null,
+      "profile_link_color": "0099CC",
+      "description": "Follow me. Sometimes I will say something funny!",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "Thomas",
+      "followers_count": 19,
+      "created_at": "Thu Nov 06 19:49:42 +0000 2008",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "statuses_count": 237,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "17217753",
+      "lang": "en",
+      "url": null,
+      "listed_count": 1,
+      "screen_name": "ThAlCl",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/641098068088123393/pbtRZpik_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17217753/1441738554",
+      "favourites_count": 2,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Las Vegas, NV",
+      "friends_count": 52,
+      "id": 17217753,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "protected": false
+    },
+    "text": "Everyone going to watch the #GOPDebate ? Haven't been this excited since I  went to #DisneyWorld. @fox5sandiego",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291851416043520,
+    "timestamp_ms": "1442446122398",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD7-PRU8AA3-Oo.jpg",
+          "type": "photo",
+          "id_str": "644291793383649280",
+          "url": "http://t.co/2KXzEzcqT9",
+          "media_url": "http://pbs.twimg.com/media/CPD7-PRU8AA3-Oo.jpg",
+          "id": 644291793383649280,
+          "expanded_url": "http://twitter.com/alena_pacheco/status/644291851395031040/photo/1",
+          "display_url": "pic.twitter.com/2KXzEzcqT9",
+          "indices": [
+            37,
+            59
+          ],
+          "sizes": {
+            "large": {
+              "w": 764,
+              "resize": "fit",
+              "h": 1024
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 455
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 804
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            25
+          ],
+          "text": "CNNDebate"
+        },
+        {
+          "indices": [
+            26,
+            36
+          ],
+          "text": "GOPDebate"
+        }
+      ]
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446122393",
+    "id_str": "644291851395031040",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/622545752292728832/u2YSecdU_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "History/Secondary Ed. dual major with minors in Special Ed. and Psychology. Running, knitting, coffee, and Capitalism. Seeking a job/internship in education.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Alena Pacheco",
+      "followers_count": 14,
+      "created_at": "Sat Jul 18 23:15:24 +0000 2015",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 5,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "3382330377",
+      "lang": "en",
+      "url": null,
+      "listed_count": 0,
+      "screen_name": "alena_pacheco",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/622545752292728832/u2YSecdU_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3382330377/1438010416",
+      "favourites_count": 2,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "Chicago, IL",
+      "friends_count": 16,
+      "id": 3382330377,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "Multitasking!! #CNNDebate #GOPDebate http://t.co/2KXzEzcqT9",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291851395031040,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD7-PRU8AA3-Oo.jpg",
+          "type": "photo",
+          "id_str": "644291793383649280",
+          "url": "http://t.co/2KXzEzcqT9",
+          "media_url": "http://pbs.twimg.com/media/CPD7-PRU8AA3-Oo.jpg",
+          "id": 644291793383649280,
+          "expanded_url": "http://twitter.com/alena_pacheco/status/644291851395031040/photo/1",
+          "display_url": "pic.twitter.com/2KXzEzcqT9",
+          "indices": [
+            37,
+            59
+          ],
+          "sizes": {
+            "large": {
+              "w": 764,
+              "resize": "fit",
+              "h": 1024
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 455
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 804
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "user_mentions": [
+        {
+          "indices": [
+            12,
+            25
+          ],
+          "id_str": "143104075",
+          "name": "SecularTalk™",
+          "screen_name": "KyleKulinski",
+          "id": 143104075
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+          "id_str": "644291390151618560",
+          "url": "http://t.co/6wi8vQxhOS",
+          "source_status_id": 644291390785093633,
+          "type": "photo",
+          "indices": [
+            85,
+            107
+          ],
+          "source_status_id_str": "644291390785093633",
+          "media_url": "http://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+          "id": 644291390151618560,
+          "expanded_url": "http://twitter.com/KyleKulinski/status/644291390785093633/photo/1",
+          "display_url": "pic.twitter.com/6wi8vQxhOS",
+          "sizes": {
+            "large": {
+              "w": 675,
+              "resize": "fit",
+              "h": 360
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 320
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 181
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "indices": [
+            74,
+            84
+          ],
+          "text": "GOPDebate"
+        }
+      ]
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446122654",
+    "id_str": "644291852489900032",
+    "lang": "en",
+    "user": {
+      "time_zone": "Eastern Time (US & Canada)",
+      "following": null,
+      "utc_offset": -14400,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1731365163/Zoe_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "notifications": null,
+      "profile_link_color": "31573E",
+      "description": "Sixth year Slytherin. It's the quiet ones you've got to look out for; you can't hear them coming until it's too late.",
+      "profile_sidebar_fill_color": "252429",
+      "default_profile_image": false,
+      "name": "Zoe Ashdown",
+      "followers_count": 471,
+      "created_at": "Mon Oct 25 22:10:10 +0000 2010",
+      "profile_text_color": "694369",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "statuses_count": 35957,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "207712959",
+      "lang": "en",
+      "url": "http://www.twitlonger.com/show/fmp8lo",
+      "listed_count": 6,
+      "screen_name": "Zoe_Ashdown",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1731365163/Zoe_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "181A1E",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/207712959/1418265425",
+      "favourites_count": 367,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Hogwarts",
+      "friends_count": 916,
+      "id": 207712959,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false
+    },
+    "text": "R u sure RT @KyleKulinski: Lindsey Graham: \"We need to grow our military\" #GOPDebate http://t.co/6wi8vQxhOS",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291852489900032,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+          "id_str": "644291390151618560",
+          "url": "http://t.co/6wi8vQxhOS",
+          "source_status_id": 644291390785093633,
+          "type": "photo",
+          "indices": [
+            85,
+            107
+          ],
+          "source_status_id_str": "644291390785093633",
+          "media_url": "http://pbs.twimg.com/media/CPD7mxHUcAA9M4i.png",
+          "id": 644291390151618560,
+          "expanded_url": "http://twitter.com/KyleKulinski/status/644291390785093633/photo/1",
+          "display_url": "pic.twitter.com/6wi8vQxhOS",
+          "sizes": {
+            "large": {
+              "w": 675,
+              "resize": "fit",
+              "h": 360
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 320
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 181
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": {
+      "place_type": "admin",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.644739,
+              37.201483
+            ],
+            [
+              -82.644739,
+              40.638802
+            ],
+            [
+              -77.718935,
+              40.638802
+            ],
+            [
+              -77.718935,
+              37.201483
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+      "attributes": {},
+      "name": "West Virginia",
+      "full_name": "West Virginia, USA",
+      "country_code": "US",
+      "id": "2d83c71ce16cd187",
+      "country": "United States"
+    },
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8BgJWIAAdiIg.jpg",
+          "type": "photo",
+          "id_str": "644291849453182976",
+          "url": "http://t.co/xHigqYba5H",
+          "media_url": "http://pbs.twimg.com/media/CPD8BgJWIAAdiIg.jpg",
+          "id": 644291849453182976,
+          "expanded_url": "http://twitter.com/chaychaymateo/status/644291853022556160/photo/1",
+          "display_url": "pic.twitter.com/xHigqYba5H",
+          "indices": [
+            36,
+            58
+          ],
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": []
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446122781",
+    "id_str": "644291853022556160",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/609174630964793345/enrbDDjX_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "I don't think I could live in a world without Chinese Buffets. | Chase Janey | ΦΔΠ | probably can't",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Terminally Chill",
+      "followers_count": 523,
+      "created_at": "Wed Apr 11 00:18:26 +0000 2012",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 21655,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "550556692",
+      "lang": "en",
+      "url": null,
+      "listed_count": 3,
+      "screen_name": "chaychaymateo",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/609174630964793345/enrbDDjX_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/550556692/1441558579",
+      "favourites_count": 9422,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "| Concord",
+      "friends_count": 300,
+      "id": 550556692,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "My face if Trump gets the election. http://t.co/xHigqYba5H",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291853022556160,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8BgJWIAAdiIg.jpg",
+          "type": "photo",
+          "id_str": "644291849453182976",
+          "url": "http://t.co/xHigqYba5H",
+          "media_url": "http://pbs.twimg.com/media/CPD8BgJWIAAdiIg.jpg",
+          "id": 644291849453182976,
+          "expanded_url": "http://twitter.com/chaychaymateo/status/644291853022556160/photo/1",
+          "display_url": "pic.twitter.com/xHigqYba5H",
+          "indices": [
+            36,
+            58
+          ],
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291853169197056",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/644020611753185280/FUll0wb__normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": "⚓️",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Jesus Lopez",
+      "followers_count": 67,
+      "created_at": "Tue Oct 21 00:55:55 +0000 2014",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 1049,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "2838821505",
+      "lang": "en",
+      "url": null,
+      "listed_count": 1,
+      "screen_name": "carlando_lopez",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/644020611753185280/FUll0wb__normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2838821505/1440161679",
+      "favourites_count": 5232,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 58,
+      "id": 2838821505,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "Lauren: did you know that Donald Trump bought Miss Universe \nMe: Really?\nLauren: the pageant not the girl although I wouldn't be surprised",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291853169197056,
+    "timestamp_ms": "1442446122816",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8BqgWUAAlu0u.jpg",
+          "type": "photo",
+          "id_str": "644291852234018816",
+          "url": "http://t.co/8Hb3nS6HO1",
+          "media_url": "http://pbs.twimg.com/media/CPD8BqgWUAAlu0u.jpg",
+          "id": 644291852234018816,
+          "expanded_url": "http://twitter.com/UniteTheComrads/status/644291853144223744/photo/1",
+          "display_url": "pic.twitter.com/8Hb3nS6HO1",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 399
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "indices": [
+            61,
+            83
+          ],
+          "text": "MakeAmericaGreatAgain"
+        },
+        {
+          "indices": [
+            84,
+            96
+          ],
+          "text": "FeelTheBern"
+        },
+        {
+          "indices": [
+            97,
+            105
+          ],
+          "text": "Stumped"
+        },
+        {
+          "indices": [
+            106,
+            114
+          ],
+          "text": "Alinsky"
+        }
+      ]
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446122810",
+    "id_str": "644291853144223744",
+    "lang": "en",
+    "user": {
+      "time_zone": "Hawaii",
+      "following": null,
+      "utc_offset": -36000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/642387802957705216/qKzHUKyA_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "3B94D9",
+      "description": "Most Liberals hope Donald Trump is the GOP nomination so it would be an easy win. Geraldo Rivera thinks you are more Racist if you support Ben Carson over Mr. T",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "RINO's for Trump",
+      "followers_count": 9,
+      "created_at": "Thu Sep 03 19:43:44 +0000 2015",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 1298,
+      "verified": false,
+      "profile_use_background_image": false,
+      "id_str": "3537164777",
+      "lang": "en",
+      "url": null,
+      "listed_count": 3,
+      "screen_name": "UniteTheComrads",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/642387802957705216/qKzHUKyA_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3537164777/1441992135",
+      "favourites_count": 12,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 2,
+      "id": 3537164777,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "Donald Trump wants to give your rights away to the Lobbyists #MakeAmericaGreatAgain #FeelTheBern #Stumped #Alinsky http://t.co/8Hb3nS6HO1",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291853144223744,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8BqgWUAAlu0u.jpg",
+          "type": "photo",
+          "id_str": "644291852234018816",
+          "url": "http://t.co/8Hb3nS6HO1",
+          "media_url": "http://pbs.twimg.com/media/CPD8BqgWUAAlu0u.jpg",
+          "id": 644291852234018816,
+          "expanded_url": "http://twitter.com/UniteTheComrads/status/644291853144223744/photo/1",
+          "display_url": "pic.twitter.com/8Hb3nS6HO1",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 399
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "http://EW.com",
+          "indices": [
+            55,
+            77
+          ],
+          "display_url": "EW.com",
+          "url": "http://t.co/qftJps0qLY"
+        },
+        {
+          "expanded_url": "http://ift.tt/1QH67T2",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "ift.tt/1QH67T2",
+          "url": "http://t.co/TBPzHXjZ9F"
+        }
+      ],
+      "trends": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8BuQW8AA1eG_.jpg",
+          "type": "photo",
+          "id_str": "644291853240692736",
+          "url": "http://t.co/UDuNGhjTdu",
+          "media_url": "http://pbs.twimg.com/media/CPD8BuQW8AA1eG_.jpg",
+          "id": 644291853240692736,
+          "expanded_url": "http://twitter.com/FmlTrends/status/644291853295177728/photo/1",
+          "display_url": "pic.twitter.com/UDuNGhjTdu",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 380,
+              "resize": "fit",
+              "h": 380
+            },
+            "large": {
+              "w": 380,
+              "resize": "fit",
+              "h": 380
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "hashtags": []
+    },
+    "truncated": false,
+    "timestamp_ms": "1442446122846",
+    "id_str": "644291853295177728",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/621671536848687104/aHVYHzOb_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "C0DEED",
+      "notifications": null,
+      "profile_link_color": "0084B4",
+      "description": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "name": "Project FML",
+      "followers_count": 36,
+      "created_at": "Thu Jul 16 13:02:36 +0000 2015",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 572,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "3378710181",
+      "lang": "en",
+      "url": null,
+      "listed_count": 0,
+      "screen_name": "FmlTrends",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/621671536848687104/aHVYHzOb_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "favourites_count": 1,
+      "default_profile": true,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 1,
+      "id": 3378710181,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "R.E.M. sue Donald Trump, Ted Cruz for $2.5 million via http://t.co/qftJps0qLY http://t.co/TBPzHXjZ9F http://t.co/UDuNGhjTdu",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291853295177728,
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/CPD8BuQW8AA1eG_.jpg",
+          "type": "photo",
+          "id_str": "644291853240692736",
+          "url": "http://t.co/UDuNGhjTdu",
+          "media_url": "http://pbs.twimg.com/media/CPD8BuQW8AA1eG_.jpg",
+          "id": 644291853240692736,
+          "expanded_url": "http://twitter.com/FmlTrends/status/644291853295177728/photo/1",
+          "display_url": "pic.twitter.com/UDuNGhjTdu",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 380,
+              "resize": "fit",
+              "h": 380
+            },
+            "large": {
+              "w": 380,
+              "resize": "fit",
+              "h": 380
+            },
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            }
+          }
+        }
+      ]
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:43 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            21,
+            31
+          ],
+          "text": "curveball"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291854071123968",
+    "lang": "en",
+    "user": {
+      "time_zone": "Central Time (US & Canada)",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/488280409168293888/miIb-mdC_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "notifications": null,
+      "profile_link_color": "2FC2EF",
+      "description": null,
+      "profile_sidebar_fill_color": "252429",
+      "default_profile_image": false,
+      "name": "Katie Brody",
+      "followers_count": 102,
+      "created_at": "Thu Sep 22 03:07:04 +0000 2011",
+      "profile_text_color": "666666",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "statuses_count": 3550,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "377781851",
+      "lang": "en",
+      "url": null,
+      "listed_count": 0,
+      "screen_name": "krbrody",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/488280409168293888/miIb-mdC_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "181A1E",
+      "favourites_count": 197,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 189,
+      "id": 377781851,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false
+    },
+    "text": "Trump is not Reagan. #curveball",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291854071123968,
+    "timestamp_ms": "1442446123031",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:43 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            93,
+            103
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291854125633536",
+    "lang": "en",
+    "user": {
+      "time_zone": null,
+      "following": null,
+      "utc_offset": null,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/623140847874363392/VYrAkO57_normal.png",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "2E2E2E",
+      "description": "Internet politics news | Tweets by: @kevincollier, @ASankin, @dellcam, @HowellONeill, @ericgeller, @WilliamTurton, @AndrewCouts.",
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "name": "Daily Dot Politics",
+      "followers_count": 2035,
+      "created_at": "Thu Dec 12 20:33:08 +0000 2013",
+      "profile_text_color": "000000",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "statuses_count": 8611,
+      "verified": true,
+      "profile_use_background_image": false,
+      "id_str": "2242884936",
+      "lang": "en",
+      "url": "http://www.dailydot.com/topics/politics/",
+      "listed_count": 77,
+      "screen_name": "DotPolitics",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/623140847874363392/VYrAkO57_normal.png",
+      "is_translator": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2242884936/1417819083",
+      "favourites_count": 119,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 235,
+      "id": 2242884936,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false
+    },
+    "text": "\"We have got to win this election,\" Pataki says, \"but we have to win and...do what we say.\"  #GOPDebate",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291854125633536,
+    "timestamp_ms": "1442446123044",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "quoted_status": {
+      "retweet_count": 0,
+      "favorited": false,
+      "contributors": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "coordinates": null,
+      "in_reply_to_status_id_str": null,
+      "retweeted": false,
+      "place": null,
+      "created_at": "Wed Sep 16 23:26:37 +0000 2015",
+      "entities": {
+        "urls": [],
+        "trends": [],
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              26
+            ],
+            "text": "GOPDebate"
+          }
+        ],
+        "symbols": [],
+        "user_mentions": []
+      },
+      "truncated": false,
+      "id_str": "644291326238949376",
+      "lang": "en",
+      "user": {
+        "time_zone": "Eastern Time (US & Canada)",
+        "following": null,
+        "utc_offset": -14400,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/853604935/avatar_200x178_normal.jpg",
+        "contributors_enabled": false,
+        "profile_background_color": "131516",
+        "notifications": null,
+        "profile_link_color": "009999",
+        "description": "Phoneguy by day,  Linux/Arduino/RasPi/RF enthusiast by night.  Runner. Ham Radio Operator (N1ZKO)",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "default_profile_image": false,
+        "name": "Jim Eden",
+        "followers_count": 354,
+        "created_at": "Thu Jun 14 00:24:17 +0000 2007",
+        "profile_text_color": "333333",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "statuses_count": 4092,
+        "verified": false,
+        "profile_use_background_image": true,
+        "id_str": "6800092",
+        "lang": "en",
+        "url": "http://edensplace.com",
+        "listed_count": 18,
+        "screen_name": "errored_seconds",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/853604935/avatar_200x178_normal.jpg",
+        "is_translator": false,
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6800092/1373795192",
+        "favourites_count": 3,
+        "default_profile": false,
+        "profile_background_tile": true,
+        "location": "NH",
+        "friends_count": 1110,
+        "id": 6800092,
+        "geo_enabled": false,
+        "follow_request_sent": null,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false
+      },
+      "text": "Warmonger time! #GOPDebate",
+      "filter_level": "low",
+      "geo": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id_str": null,
+      "id": 644291326238949376,
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null
+    },
+    "quoted_status_id": 644291326238949376,
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "lang": "en",
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:43 +0000 2015",
+    "user": {
+      "time_zone": "Quito",
+      "following": null,
+      "utc_offset": -18000,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2878242940/9a5ad5f0db376fe81a7d563d56512779_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "notifications": null,
+      "profile_link_color": "020245",
+      "description": "Consent of the Governed - still a winning proposition",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "default_profile_image": false,
+      "name": "Independent Voter",
+      "followers_count": 55,
+      "created_at": "Wed Jun 17 14:00:59 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717710005/f1b09735357299dce5a590a995b7f2fe.jpeg",
+      "statuses_count": 615,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "47968676",
+      "lang": "en",
+      "url": null,
+      "listed_count": 0,
+      "screen_name": "Veraguas",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2878242940/9a5ad5f0db376fe81a7d563d56512779_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "favourites_count": 38,
+      "default_profile": false,
+      "profile_background_tile": true,
+      "location": "Tampa, Florida",
+      "friends_count": 139,
+      "id": 47968676,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717710005/f1b09735357299dce5a590a995b7f2fe.jpeg",
+      "protected": false
+    },
+    "truncated": false,
+    "quoted_status_id_str": "644291326238949376",
+    "id_str": "644291854071136256",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/errored_seconds/status/644291326238949376",
+          "indices": [
+            20,
+            43
+          ],
+          "display_url": "twitter.com/errored_second…",
+          "url": "https://t.co/pBxqXN4ZtS"
+        }
+      ],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "text": "Low-hanging fruit!  https://t.co/pBxqXN4ZtS",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291854071136256,
+    "timestamp_ms": "1442446123031",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:42 +0000 2015",
+    "entities": {
+      "urls": [
+        {
+          "expanded_url": "http://www.politifact.com/wisconsin/statements/2014/sep/05/barack-obama/obama-says-he-has-cut-national-deficit-half/",
+          "indices": [
+            83,
+            105
+          ],
+          "display_url": "politifact.com/wisconsin/stat…",
+          "url": "http://t.co/T0suruPZGp"
+        }
+      ],
+      "trends": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "GOPDebate"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "truncated": false,
+    "id_str": "644291853559291904",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/502588889769340928/t0xUjuoa_normal.jpeg",
+      "contributors_enabled": false,
+      "profile_background_color": "0099B9",
+      "notifications": null,
+      "profile_link_color": "0099B9",
+      "description": "The best defense against bullshit is vigilance. So, if you smell something, say something, - Jon Stewart",
+      "profile_sidebar_fill_color": "95E8EC",
+      "default_profile_image": false,
+      "name": "Fact Beat",
+      "followers_count": 106,
+      "created_at": "Wed Feb 18 01:41:09 +0000 2009",
+      "profile_text_color": "3C3940",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "statuses_count": 390,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "21156979",
+      "lang": "en",
+      "url": null,
+      "listed_count": 9,
+      "screen_name": "factbeat",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/502588889769340928/t0xUjuoa_normal.jpeg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21156979/1409599528",
+      "favourites_count": 72,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "",
+      "friends_count": 294,
+      "id": 21156979,
+      "geo_enabled": false,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "protected": false
+    },
+    "text": "#GOPDebate Dept is not a major problem and Obama has cut national deficit in half. http://t.co/T0suruPZGp …",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id_str": null,
+    "id": 644291853559291904,
+    "timestamp_ms": "1442446122909",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null
+  },
+  {
+    "retweet_count": 0,
+    "favorited": false,
+    "contributors": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "coordinates": null,
+    "in_reply_to_status_id_str": "644291596624773120",
+    "retweeted": false,
+    "place": null,
+    "created_at": "Wed Sep 16 23:28:43 +0000 2015",
+    "entities": {
+      "urls": [],
+      "trends": [],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "374558334",
+          "name": "Jean Giardina",
+          "screen_name": "JeanGiardina",
+          "id": 374558334
+        }
+      ]
+    },
+    "truncated": false,
+    "id_str": "644291854066827265",
+    "lang": "en",
+    "user": {
+      "time_zone": "Pacific Time (US & Canada)",
+      "following": null,
+      "utc_offset": -25200,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/627958981021990917/x7ZMMkf1_normal.jpg",
+      "contributors_enabled": false,
+      "profile_background_color": "000000",
+      "notifications": null,
+      "profile_link_color": "3B94D9",
+      "description": "Game developer by day, author of fantastical tales for children and young adults by night.  Writing represented by Rosemary Stimola.",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "default_profile_image": false,
+      "name": "Ben L. J. Brooks",
+      "followers_count": 526,
+      "created_at": "Thu Apr 30 17:19:50 +0000 2009",
+      "profile_text_color": "333333",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "statuses_count": 17531,
+      "verified": false,
+      "profile_use_background_image": true,
+      "id_str": "36716833",
+      "lang": "en",
+      "url": "http://benljbrooks.com",
+      "listed_count": 36,
+      "screen_name": "BenLJBrooks",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/627958981021990917/x7ZMMkf1_normal.jpg",
+      "is_translator": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36716833/1439237629",
+      "favourites_count": 5392,
+      "default_profile": false,
+      "profile_background_tile": false,
+      "location": "Seattle, WA",
+      "friends_count": 326,
+      "id": 36716833,
+      "geo_enabled": true,
+      "follow_request_sent": null,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false
+    },
+    "text": "@JeanGiardina I think that's a necessary survival tactic when Donald Trump is leading the polls--even against Democrats in some areas.",
+    "filter_level": "low",
+    "geo": null,
+    "in_reply_to_status_id": 644291596624773120,
+    "in_reply_to_user_id_str": "374558334",
+    "id": 644291854066827265,
+    "timestamp_ms": "1442446123030",
+    "in_reply_to_user_id": 374558334,
+    "in_reply_to_screen_name": "JeanGiardina"
+  }
+]

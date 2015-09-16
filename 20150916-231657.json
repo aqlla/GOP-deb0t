@@ -1,0 +1,206 @@
+{
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "644286403979935744",
+  "extended_entities": {
+    "media": [
+      {
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 496,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 414,
+            "h": 604,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 414,
+            "h": 604,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "media_url_https": "https://pbs.twimg.com/media/CPD5VQPWcAAtkIM.jpg",
+        "id_str": "644288890245902336",
+        "display_url": "pic.twitter.com/A7hENRZAZ6",
+        "indices": [
+          115,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/media/CPD5VQPWcAAtkIM.jpg",
+        "id": 644288890245902336,
+        "expanded_url": "http://twitter.com/JULIEE4HUCKABEE/status/644288891483107328/photo/1",
+        "url": "http://t.co/A7hENRZAZ6"
+      }
+    ]
+  },
+  "truncated": false,
+  "filter_level": "low",
+  "entities": {
+    "urls": [],
+    "hashtags": [
+      {
+        "text": "Huckabee",
+        "indices": [
+          36,
+          45
+        ]
+      },
+      {
+        "text": "imwithhuck",
+        "indices": [
+          75,
+          86
+        ]
+      },
+      {
+        "text": "CNNDebate",
+        "indices": [
+          87,
+          97
+        ]
+      },
+      {
+        "text": "GOPDebate",
+        "indices": [
+          98,
+          108
+        ]
+      },
+      {
+        "text": "ccot",
+        "indices": [
+          109,
+          114
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 223970563,
+        "screen_name": "TeamCavuto",
+        "name": "Neil Cavuto",
+        "id_str": "223970563",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "id": 56413858,
+        "screen_name": "FoxBusiness",
+        "name": "FOX Business",
+        "id_str": "56413858",
+        "indices": [
+          12,
+          24
+        ]
+      }
+    ],
+    "trends": [],
+    "media": [
+      {
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 496,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 414,
+            "h": 604,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 414,
+            "h": 604,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "media_url_https": "https://pbs.twimg.com/media/CPD5VQPWcAAtkIM.jpg",
+        "id_str": "644288890245902336",
+        "display_url": "pic.twitter.com/A7hENRZAZ6",
+        "indices": [
+          115,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/media/CPD5VQPWcAAtkIM.jpg",
+        "id": 644288890245902336,
+        "expanded_url": "http://twitter.com/JULIEE4HUCKABEE/status/644288891483107328/photo/1",
+        "url": "http://t.co/A7hENRZAZ6"
+      }
+    ]
+  },
+  "in_reply_to_screen_name": "TeamCavuto",
+  "geo": null,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "in_reply_to_user_id": 223970563,
+  "created_at": "Wed Sep 16 23:16:56 +0000 2015",
+  "text": "@TeamCavuto @FoxBusiness Definitely #Huckabee!!  Even Mrs. Reagan Agrees!! #imwithhuck #CNNDebate #GOPDebate #ccot http://t.co/A7hENRZAZ6",
+  "id_str": "644288891483107328",
+  "contributors": null,
+  "in_reply_to_status_id": 644286403979935744,
+  "id": 644288891483107328,
+  "place": null,
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 6,
+    "name": "JULIEE4HUCKABEE",
+    "default_profile_image": false,
+    "protected": false,
+    "profile_background_color": "BABCDF",
+    "profile_background_tile": false,
+    "profile_link_color": "FF0000",
+    "geo_enabled": false,
+    "followers_count": 193,
+    "contributors_enabled": false,
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583820826/26428_1293857352868_1423329622_30748658_804060_n_normal.jpg",
+    "profile_sidebar_border_color": "CB95F2",
+    "url": null,
+    "created_at": "Mon Jul 14 04:41:37 +0000 2008",
+    "utc_offset": -25200,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+    "profile_sidebar_fill_color": "FFCCD6",
+    "profile_text_color": "53450C",
+    "id_str": "15422963",
+    "follow_request_sent": null,
+    "lang": "en",
+    "location": "",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1583820826/26428_1293857352868_1423329622_30748658_804060_n_normal.jpg",
+    "id": 15422963,
+    "default_profile": false,
+    "favourites_count": 497,
+    "description": null,
+    "profile_use_background_image": true,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+    "notifications": null,
+    "statuses_count": 1595,
+    "following": null,
+    "screen_name": "JULIEE4HUCKABEE",
+    "friends_count": 242,
+    "is_translator": false
+  },
+  "in_reply_to_user_id_str": "223970563",
+  "lang": "en",
+  "timestamp_ms": "1442445416695",
+  "retweeted": false,
+  "coordinates": null,
+  "favorite_count": 0
+}
