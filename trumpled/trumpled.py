@@ -11,14 +11,31 @@ access_secret = "Xeyf2lTykUcGqaAWehy6x5pqV5JtQ33uO8zmGu2LZi31r"
 
 
 class MyStreamListener(tweepy.StreamListener):
-    def __init__(self):
+    def __init__(self, api):
         super(MyStreamListener, self).__init__()
+        self.api = api
         self.tweets = []
 
     def on_data(self, data):
         json_data = json.loads(data)
+        # if 'limit' in json_data.keys():
+        #     try:
+        #         res = api.search(q='donald trump', count=100)
+        #         write_to_file(str(res))
+        #     except tweepy.TweepError as e:
+        #         print(e)
         if 'retweeted' not in json_data.keys() or not json_data['retweeted'] and not json_data['text'].startswith('RT'):
-            return self.addtweet(json_data)
+            if 'text' in json_data.keys():
+                print('@' + json_data['user']['screen_name'] + ': ' + json_data['text'])
+                if 'masturbat' in str(json_data['text']) or 'circle jerk' in str(json_data['text']):
+                    try:
+                        t = "RT @" + json_data['user']['screen_name'] + ': ' + json_data['text'] + " #gopdeb0t"
+                        api.update_status(status=t)
+                    except tweepy.TweepError as e:
+                        print(e)
+            self.addtweet(json_data)
+            return True
+
 
     def on_error(self, status_code):
         print('stream listener: ', status_code)
@@ -45,7 +62,6 @@ def authenticate_app():
 
 def write_to_file(tweets):
     timestr = strftime("%Y%m%d-%H%M%S", gmtime())
-
     try:
         with codecs.open(timestr + ".json", 'w') as fp:
             json.dump(tweets, fp=fp, indent=2, ensure_ascii=False)
@@ -62,6 +78,6 @@ api = authenticate_app()
 # results = api.search(q="trump", count=100)
 # write_to_file(results)
 
-myStreamListener = MyStreamListener()
+myStreamListener = MyStreamListener(api)
 stream = tweepy.Stream(auth=api.auth, listener=myStreamListener)
-stream.filter(track=['trump', '#GOPdebate', 'donald', '#donaldtrump', ], async=True)
+stream.filter(track=['donald trump', 'gop', 'debate', 'GOPdebate', 'donaldtrump', 'rand paul', 'randpaul', 'jeb bush', 'ted cruz', 'carly fiorina', 'carlyfiorina', 'ronald regan', 'israel debate', 'hillary debate', 'terrorism debate', 'terrorist debate', 'palestine', 'obama debate', 'mexicans debate', 'anchor babies', 'illegal immigrants', 'ben carson', 'chris christie', 'marco rubio', 'jebbush', 'ronaldregan'], async=True)
